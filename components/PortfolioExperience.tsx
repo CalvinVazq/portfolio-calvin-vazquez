@@ -346,8 +346,8 @@ export function PortfolioExperience() {
     </div>
     </section>
     <div className={`carousel-controls ${selectedProject ? "is-hidden" : ""}`} aria-label="Navigation des projets">
-      <button type="button" onClick={() => moveTileRef.current?.(-1)} aria-label="Projet précédent">←</button>
-      <button type="button" onClick={() => moveTileRef.current?.(1)} aria-label="Projet suivant">→</button>
+      <button type="button" onClick={() => moveTileRef.current?.(-1)} aria-label="Projet précédent"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 12H5M10 7l-5 5 5 5" /></svg></button>
+      <button type="button" onClick={() => moveTileRef.current?.(1)} aria-label="Projet suivant"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-5-5 5 5-5 5" /></svg></button>
     </div>
     <p className={`carousel-progress ${selectedProject ? "is-hidden" : ""}`} aria-live="polite">{carouselProgress}</p>
     {selectedProject && <ProjectDetail project={selectedProject} index={projects.findIndex((project) => project.slug === selectedProject.slug)} onClose={() => setSelectedProject(null)} />}
