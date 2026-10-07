@@ -9,6 +9,7 @@ import { Project, projects } from "../data/projects";
 export function PortfolioExperience() {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const goToProjectRef = useRef<((slug: string) => void) | null>(null);
+  const moveTileRef = useRef<((step: 1 | -1) => void) | null>(null);
   const [selectedProject, setSelectedProject] = useState<Project | null>(null);
   const [activeProjectSlug, setActiveProjectSlug] = useState(projects[0]?.slug ?? "");
   const [isContactOpen, setIsContactOpen] = useState(false);
@@ -77,7 +78,6 @@ export function PortfolioExperience() {
     let introTimeline: gsap.core.Timeline | undefined;
     let activeTileIndex = -1;
     let wheelDelta = 0;
-    let queuedSteps = 0;
     let introComplete = false;
     let swipeStart: { x: number; y: number } | undefined;
     let didSwipe = false;
@@ -138,14 +138,7 @@ export function PortfolioExperience() {
         .map((state, index) => ({ state, offset: (index - activeIndex + tileCount) % tileCount }))
         .sort((a, b) => step === 1 ? a.offset - b.offset : b.offset - a.offset);
 
-      stepTimeline = gsap.timeline({ paused: true, onComplete: () => {
-        onComplete?.();
-        if (!queuedSteps) return;
-        const queuedStep: 1 | -1 = queuedSteps > 0 ? 1 : -1;
-        const queuedAmount = Math.abs(queuedSteps);
-        queuedSteps = 0;
-        goToNextTile(queuedStep, undefined, queuedAmount);
-      } });
+      stepTimeline = gsap.timeline({ paused: true, onComplete });
       orderedStates.forEach(({ state }, index) => {
         stepTimeline?.to(state, { progress: state.progress + step * steps, duration, ease: "power3.inOut", onUpdate: renderPerspectiveTiles }, index * staggerAmount);
       });
@@ -153,10 +146,9 @@ export function PortfolioExperience() {
     }
 
     function requestTileMove(step: 1 | -1) {
-      if (stepTimeline?.isActive()) {
-        queuedSteps += step;
-        return;
-      }
+      // A scroll gesture always advances exactly one card. Ignore any extra
+      // wheel events until the current transition has fully settled.
+      if (stepTimeline?.isActive()) return;
       goToNextTile(step);
     }
 
@@ -276,6 +268,9 @@ export function PortfolioExperience() {
       .to(collection, { rotationY: direction * 720, duration: 7.2, ease: "osmo" }, 0)
       .to(tiles, { filter: "blur(0px) brightness(1)", duration: 3.2, ease: "power2.out" }, 0);
     goToProjectRef.current = goToProject;
+    moveTileRef.current = (step) => {
+      if (introComplete) requestTileMove(step);
+    };
 
     const resizeObserver = new ResizeObserver(() => {
       updateMeasurements();
@@ -287,6 +282,7 @@ export function PortfolioExperience() {
       stepTimeline?.kill();
       introTimeline?.kill();
       goToProjectRef.current = null;
+      moveTileRef.current = null;
       container.classList.remove("is-intro-ready");
       resizeObserver.disconnect();
       container.removeEventListener("wheel", onWheel);
@@ -328,7 +324,7 @@ export function PortfolioExperience() {
               <a className="contact-menu__row" href="mailto:contact@calvinvazquez.ch"><span className="contact-menu__icon" aria-hidden="true">✉</span><span><small>E-mail</small><strong>contact@calvinvazquez.ch</strong></span><b aria-hidden="true">↗</b></a>
               <a className="contact-menu__row" href="tel:+41791044003"><span className="contact-menu__icon contact-menu__icon--phone" aria-hidden="true">▯</span><span><small>Téléphone</small><strong>+41 79 104 40 03</strong></span><b aria-hidden="true">↗</b></a>
             </div>
-            <a className="contact-menu__download" href="/calvin-vazquez-cv.pdf" download><span className="contact-menu__document" aria-hidden="true">▱</span><span>Télécharger le CV</span><b aria-hidden="true">↗</b></a>
+            <a className="contact-menu__download" href="https://drive.google.com/file/d/1qTGZl9UiJu23YYBzuD8YXYs9rKkubRkl/view?usp=sharing" target="_blank" rel="noreferrer"><span className="contact-menu__document" aria-hidden="true">▱</span><span>Télécharger le CV</span><b aria-hidden="true">↗</b></a>
           </div>
         </div>
       </div>
@@ -349,6 +345,10 @@ export function PortfolioExperience() {
       </div>
     </div>
     </section>
+    <div className={`carousel-controls ${selectedProject ? "is-hidden" : ""}`} aria-label="Navigation des projets">
+      <button type="button" onClick={() => moveTileRef.current?.(-1)} aria-label="Projet précédent">←</button>
+      <button type="button" onClick={() => moveTileRef.current?.(1)} aria-label="Projet suivant">→</button>
+    </div>
     <p className={`carousel-progress ${selectedProject ? "is-hidden" : ""}`} aria-live="polite">{carouselProgress}</p>
     {selectedProject && <ProjectDetail project={selectedProject} index={projects.findIndex((project) => project.slug === selectedProject.slug)} onClose={() => setSelectedProject(null)} />}
   </>;
