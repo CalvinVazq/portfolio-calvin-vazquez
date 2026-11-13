@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1018 70" preserveAspectRatio="none">
+  <defs>
+    <path id="rings" d="M-20 87C0 58 52 49 65 25 76 2 46-14 13-9-17-5-29 3-42 14m19 69C1 55 43 45 57 24 70 5 41-9 14-5-9-2-23 7-36 17m12 60C-2 52 38 42 51 23 62 6 37-5 15 0-5 4-17 9-29 19m4 52C-4 49 33 39 45 21 55 8 32-2 15 4-1 9-13 12-25 22m2 40C-1 42 26 36 37 20 44 10 28 4 13 9 0 13-11 17-19 25m2 27C2 36 21 30 29 19 35 11 23 10 12 14 4 17-5 20-13 26m4 15c16-11 24-15 31-23 3-4-3-4-12 1-7 3-12 6-17 10"/>
+  </defs>
+  <g fill="none" stroke="#a47d5a" stroke-width=".7" opacity=".48">
+    <use href="#rings" transform="translate(15 0) scale(1.35 .96)"/>
+    <use href="#rings" transform="translate(1007 68) rotate(177) scale(1.55 1.08)"/>
+  </g>
+</svg>

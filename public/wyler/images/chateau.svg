@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="225" viewBox="0 0 370 225" fill="none">
+  <defs>
+    <pattern id="hatch" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(28)"><path d="M0 0v5m2 0v-5" stroke="#83705c" stroke-width=".6" opacity=".55"/></pattern>
+    <pattern id="fine" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(52)"><path d="M0 0v4" stroke="#786552" stroke-width=".7" opacity=".8"/></pattern>
+    <path id="crown" d="M0 16q-3-8 4-9-1-8 8-6 6-5 10 1 7-1 9 7 7 4 2 10-3 7-11 4-10 7-16 0-7 1-6-7Z"/>
+  </defs>
+  <g stroke="#846e58" stroke-width=".75">
+    <path d="M4 207q36-22 76-33l64-26 41-8 68-32 49-12 68-1v130H4Z" fill="url(#hatch)"/>
+    <path d="M8 216q55-18 105-26 41-7 84-33t92-40q41-15 81-13M17 224q35-14 65-18t65-16 75-30 66-32 82-14M95 224q48-18 89-24 33-5 68-26t118-38M150 225q54-13 88-26t76-31 56-10M219 225q35-4 67-19t84-22M276 225q42-10 94-27"/>
+    <path d="M10 211q63-21 103-28m-51 34q35-9 52-10m69-29q46-19 59-29m38-12q45-17 82-18m-75 46q36-14 73-18m-42 39q17-8 44-10m-104 41q35-10 63-23M42 193l35-10m35-23 42-14m157-43 51-3"/>
+    <g fill="url(#fine)">
+      <use href="#crown" transform="translate(263 59) scale(1.2)"/><use href="#crown" transform="translate(297 41) scale(1.22)"/><use href="#crown" transform="translate(324 18) scale(1.18)"/><use href="#crown" transform="translate(342 42) scale(1.08)"/><use href="#crown" transform="translate(335 67) scale(.97)"/>
+      <use href="#crown" transform="translate(99 146) scale(.76)"/><use href="#crown" transform="translate(130 130) scale(.75)"/><use href="#crown" transform="translate(116 135) scale(.68)"/><use href="#crown" transform="translate(158 119) scale(.78)"/>
+      <use href="#crown" transform="translate(185 142) scale(.62)"/><use href="#crown" transform="translate(222 125) scale(.75)"/><use href="#crown" transform="translate(281 101) scale(.8)"/>
+      <use href="#crown" transform="translate(68 168) scale(.54)"/><use href="#crown" transform="translate(55 174) scale(.6)"/><use href="#crown" transform="translate(38 181) scale(.5)"/>
+    </g>
+    <path d="m138 160 1-30 24-5 12 8 1 19Zm29-7v-43l23-16 15 6 2 43Zm27-9 2-48 27-14 16 10 1 39Zm31-10V87l29-19 16 10 1 43Zm41-14V64l15-9 14 10 1 45Z" fill="#efe4d5"/>
+    <path d="m138 130 11-11 15-1 11 15-12-8Zm28-20 11-17 12-5 17 12-16-6Zm28-14 15-17 14-4 16 17-16-10Zm29-9 19-17 12-8 16 16-16-10Z" fill="url(#fine)"/>
+    <path d="M266 65q12-11 15-28 4 18 17 26l-3 4-14-7-15 8Z" fill="#83705c"/>
+    <path d="m280 37 1-7 2 8m-43 55v39m16-53 1 45m-34-34v45m-34-35v44m-26-13v25m118-91v48m-137 39 20-6m-19-1 17-4m12 0 13-5m16-6 19-6m5-4 26-8m16-7 13-5"/>
+    <path d="M147 136v5m7-7v5m-6 5v6m7-8v5m19-33v5m7-8v5m-7 6v5m7-7v5m-6 5v5m6-6v5m19-30v5m8-9v5m8-8v5m-16 8v5m8-9v5m8-8v5m-16 8v5m8-9v5m8-8v5m19-28v5m8-9v5m8-9v5m-16 9v5m8-10v5m8-9v5m-16 9v5m8-10v5m8-9v5m22-33v7m11-7v7m-11 5v7m11-7v7" stroke="#675341" stroke-width="2"/>
+    <path d="M79 187q14-11 25-22m27 8 23-9m66-14 18-10m39-19 11-14m28-8 7-21m19 15 7-24"/>
+  </g>
+</svg>
