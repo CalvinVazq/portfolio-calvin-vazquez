@@ -1,0 +1,3933 @@
+{
+  "/shop": {
+    "title": "Tous les produits",
+    "products": [
+      {
+        "url": "/shop/sapin-enneige-rainier-piece-8473",
+        "name": "Sapin Enneigé - Rainier (pièce)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/10926/image_512/Sapin%20Enneig%C3%A9%20-%20Rainier%20%28pi%C3%A8ce%29?unique=6edc1bd",
+        "price": "11,90"
+      },
+      {
+        "url": "/shop/bottes-a-suspendre-arctica-marron-piece-8834",
+        "name": "Bottes à Suspendre - Arctica (marron, pièce)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11327/image_512/Bottes%20%C3%A0%20Suspendre%20-%20Arctica%20%28marron%2C%20pi%C3%A8ce%29?unique=b356769",
+        "price": "12,90"
+      },
+      {
+        "url": "/shop/bottes-a-suspendre-arctica-beige-piece-8830",
+        "name": "Bottes à Suspendre - Arctica (beige, pièce)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11323/image_512/Bottes%20%C3%A0%20Suspendre%20-%20Arctica%20%28beige%2C%20pi%C3%A8ce%29?unique=7c2cae8",
+        "price": "12,90"
+      },
+      {
+        "url": "/shop/skis-a-suspendre-arctica-beige-piece-8831",
+        "name": "Skis à Suspendre - Arctica (beige, pièce)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11324/image_512/Skis%20%C3%A0%20Suspendre%20-%20Arctica%20%28beige%2C%20pi%C3%A8ce%29?unique=ecb4d64",
+        "price": "14,90"
+      },
+      {
+        "url": "/shop/skis-a-suspendre-arctica-marron-piece-8835",
+        "name": "Skis à Suspendre - Arctica (marron, pièce)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11328/image_512/Skis%20%C3%A0%20Suspendre%20-%20Arctica%20%28marron%2C%20pi%C3%A8ce%29?unique=7603925",
+        "price": "14,90"
+      },
+      {
+        "url": "/shop/telepheriques-a-suspendre-arctica-piece-8832",
+        "name": "Téléphériques à Suspendre - Arctica (pièce)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11325/image_512/T%C3%A9l%C3%A9ph%C3%A9riques%20%C3%A0%20Suspendre%20-%20Arctica%20%28pi%C3%A8ce%29?unique=574895a",
+        "price": "19,90"
+      },
+      {
+        "url": "/shop/patins-a-suspendre-arctica-beige-piece-8829",
+        "name": "Patins à Suspendre - Arctica (beige, pièce)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11322/image_512/Patins%20%C3%A0%20Suspendre%20-%20Arctica%20%28beige%2C%20pi%C3%A8ce%29?unique=7b6dca6",
+        "price": "12,90"
+      },
+      {
+        "url": "/shop/patins-a-suspendre-arctica-marron-piece-8833",
+        "name": "Patins à Suspendre - Arctica (marron, pièce)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11326/image_512/Patins%20%C3%A0%20Suspendre%20-%20Arctica%20%28marron%2C%20pi%C3%A8ce%29?unique=1b7fc71",
+        "price": "12,90"
+      },
+      {
+        "url": "/shop/decoration-en-bois-etoiles-9218",
+        "name": "Décoration en Bois - Étoiles",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11718/image_512/D%C3%A9coration%20en%20Bois%20-%20%C3%89toiles?unique=b837981",
+        "price": "24,90"
+      },
+      {
+        "url": "/shop/decoration-en-bois-etoiles-9216",
+        "name": "Décoration en Bois - Étoiles",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11716/image_512/D%C3%A9coration%20en%20Bois%20-%20%C3%89toiles?unique=b486fa4",
+        "price": "24,90"
+      },
+      {
+        "url": "/shop/cloche-a-suspendre-wink-8468",
+        "name": "Cloche à Suspendre - Wink",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/10921/image_512/Cloche%20%C3%A0%20Suspendre%20-%20Wink?unique=81fcaf9",
+        "price": "16,90"
+      },
+      {
+        "url": "/shop/cordon-telephone-zahra-9646",
+        "name": "Cordon Téléphone - Zahra",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12191/image_512/Cordon%20T%C3%A9l%C3%A9phone%20-%20Zahra%20%28Chocolat%20Marbr%C3%A9%29?unique=8b85737",
+        "price": "79,00"
+      },
+      {
+        "url": "/shop/porte-cles-laniere-zahra-9645",
+        "name": "Porte-Clés - Lanière Zahra",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12187/image_512/Porte-Cl%C3%A9s%20-%20Lani%C3%A8re%20Zahra%20%28Chocolat%29?unique=8b85737",
+        "price": "39,00"
+      },
+      {
+        "url": "/shop/porte-cles-coeur-avec-sourire-9644",
+        "name": "Porte-Clés - Coeur avec Sourire",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12185/image_512/Porte-Cl%C3%A9s%20-%20Coeur%20avec%20Sourire?unique=8b85737",
+        "price": "35,00"
+      },
+      {
+        "url": "/shop/porte-cles-love-9643",
+        "name": "Porte-Clés - Love",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12184/image_512/Porte-Cl%C3%A9s%20-%20Love?unique=8b85737",
+        "price": "35,00"
+      },
+      {
+        "url": "/shop/porte-cles-main-force-9642",
+        "name": "Porte-Clés - Main (Force)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12183/image_512/Porte-Cl%C3%A9s%20-%20Main%20%28Force%29?unique=8b85737",
+        "price": "35,00"
+      },
+      {
+        "url": "/shop/porte-monnaie-mini-denya-taupe-9641",
+        "name": "Porte-Monnaie Mini - Denya Taupe",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12182/image_512/Porte-Monnaie%20Mini%20-%20Denya%20Taupe?unique=8b85737",
+        "price": "39,00"
+      },
+      {
+        "url": "/shop/porte-monnaie-mini-naima-creme-9640",
+        "name": "Porte-Monnaie Mini - Naima Crème",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12181/image_512/Porte-Monnaie%20Mini%20-%20Naima%20Cr%C3%A8me?unique=8b85737",
+        "price": "39,00"
+      },
+      {
+        "url": "/shop/porte-monnaie-naima-creme-9639",
+        "name": "Porte-Monnaie - Naima Crème",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12180/image_512/Porte-Monnaie%20-%20Naima%20Cr%C3%A8me?unique=8b85737",
+        "price": "79,00"
+      },
+      {
+        "url": "/shop/chouchou-mousseline-9638",
+        "name": "Chouchou - Mousseline",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12179/image_512/Chouchou%20-%20Mousseline?unique=0813868",
+        "price": "12,00"
+      }
+    ],
+    "categories": [
+      {
+        "url": "/shop/category/produits-de-la-semaine-431",
+        "name": "Produits de la semaine"
+      },
+      {
+        "url": "/shop/category/noel-36",
+        "name": "Noël"
+      },
+      {
+        "url": "/shop/category/noel-ampoules-de-noel-403",
+        "name": "Ampoules de Noël"
+      },
+      {
+        "url": "/shop/category/noel-art-de-la-table-389",
+        "name": "Art de la table"
+      },
+      {
+        "url": "/shop/category/noel-bougeoirs-de-noel-253",
+        "name": "Bougeoirs de Noël"
+      },
+      {
+        "url": "/shop/category/noel-bougies-404",
+        "name": "Bougies"
+      },
+      {
+        "url": "/shop/category/noel-bougies-bougies-de-noel-254",
+        "name": "Bougies de Noël"
+      },
+      {
+        "url": "/shop/category/noel-bougies-bougies-leds-de-noel-330",
+        "name": "Bougies Leds de Noël"
+      },
+      {
+        "url": "/shop/category/noel-cuilleres-en-chocolat-413",
+        "name": "Cuillères en chocolat"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-390",
+        "name": "Décoration Sapin de Noël"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-accessoires-pour-sapin-258",
+        "name": "Accessoires pour Sapin"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-boules-de-noel-255",
+        "name": "Boules de Noël"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-creches-407",
+        "name": "Crèches"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-411",
+        "name": "Décorations Intérieur"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-decorations-maison-257",
+        "name": "Décorations Maison"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-affiches-panneaux-pancarte-409",
+        "name": "Affiches, Panneaux & Pancarte"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-decorations-lumineuses-408",
+        "name": "Décorations lumineuses"
+      },
+      {
+        "url": "/shop/category/noel-decorations-jardin-405",
+        "name": "Décorations Jardin"
+      },
+      {
+        "url": "/shop/category/noel-decorations-table-de-noel-259",
+        "name": "Décorations Table de Noël"
+      },
+      {
+        "url": "/shop/category/noel-fausses-fourrures-331",
+        "name": "Fausses Fourrures"
+      },
+      {
+        "url": "/shop/category/noel-guirlandes-de-noel-260",
+        "name": "Guirlandes de Noël"
+      },
+      {
+        "url": "/shop/category/noel-guirlandes-de-noel-avec-piles-369",
+        "name": "Avec Piles"
+      },
+      {
+        "url": "/shop/category/noel-guirlandes-de-noel-avec-prises-368",
+        "name": "Avec Prises"
+      },
+      {
+        "url": "/shop/category/noel-idees-cadeaux-noel-391",
+        "name": "Idées Cadeaux Noël"
+      },
+      {
+        "url": "/shop/category/noel-idees-cadeaux-noel-idees-cadeaux-42",
+        "name": "Idées Cadeaux"
+      },
+      {
+        "url": "/shop/category/noel-idees-cadeaux-noel-cadeaux-hommes-291",
+        "name": "Cadeaux Hommes"
+      },
+      {
+        "url": "/shop/category/noel-lanternes-de-noel-261",
+        "name": "Lanternes de Noël"
+      },
+      {
+        "url": "/shop/category/noel-papeteries-calendrier-de-l-avent-emballages-de-noel-263",
+        "name": "Papeteries, Calendrier de l'Avent & Emballages de Noël"
+      },
+      {
+        "url": "/shop/category/noel-photophores-de-noel-262",
+        "name": "Photophores de Noël"
+      },
+      {
+        "url": "/shop/category/noel-sapins-artificiels-406",
+        "name": "Sapins Artificiels"
+      },
+      {
+        "url": "/shop/category/bon-cadeau-46",
+        "name": "Bon cadeau"
+      },
+      {
+        "url": "/shop/category/maison-34",
+        "name": "Maison"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-224",
+        "name": "Accessoires"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-animaux-44",
+        "name": "Animaux"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-cadres-photos-227",
+        "name": "Cadres Photos"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-corbeilles-paniers-malles-228",
+        "name": "Corbeilles, Paniers & Malles"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-corbeilles-paniers-malles-malles-valises-359",
+        "name": "Malles & Valises"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-crochets-231",
+        "name": "Crochets"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-echelles-320",
+        "name": "Échelles"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-fleurs-et-plantes-synthetiques-318",
+        "name": "Fleurs et plantes synthétiques"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-guirlandes-233",
+        "name": "Guirlandes"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-jeux-321",
+        "name": "Jeux"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-37",
+        "name": "Papeterie & Bureau"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-accessoires-de-bureau-264",
+        "name": "Accessoires de bureau"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-affiches-cartes-mantra-418",
+        "name": "Affiches & Cartes Mantra"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-cartes-etiquettes-266",
+        "name": "Cartes & Etiquettes"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-tableaux-377",
+        "name": "Tableaux"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-29",
+        "name": "Art de la table"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-accessoires-a-vin-185",
+        "name": "Accessoires à Vin"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-accessoires-de-cuisine-181",
+        "name": "Accessoires de Cuisine"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-apero-428",
+        "name": "Apéro"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-bocaux-182",
+        "name": "Bocaux"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-bols-saladiers-427",
+        "name": "Bols & Saladiers"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-carafes-355",
+        "name": "Carafes"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-planches-183",
+        "name": "Planches"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-plateaux-de-service-184",
+        "name": "Plateaux de Service"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-serviettes-186",
+        "name": "Serviettes"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-set-de-table-187",
+        "name": "Set de table"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-tasses-350",
+        "name": "Tasses"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-theieres-190",
+        "name": "Théières"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-vaisselles-191",
+        "name": "Vaisselles"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-189",
+        "name": "Verres"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-sous-verres-356",
+        "name": "Sous-Verres"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-aperos-353",
+        "name": "Verres à Apéros"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-champagne-354",
+        "name": "Verres à Champagne"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-eau-351",
+        "name": "Verres à Eau"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-vin-352",
+        "name": "Verres à Vin"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-27",
+        "name": "Bien-être"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-bouillottes-293",
+        "name": "Bouillottes"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-carillons-313",
+        "name": "Carillons"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-cremes-corps-mains-171",
+        "name": "Crèmes Corps & Mains"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-huiles-essentielles-412",
+        "name": "Huiles Essentielles"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-savons-175",
+        "name": "Savons"
+      },
+      {
+        "url": "/shop/category/maison-bougeoirs-176",
+        "name": "Bougeoirs"
+      },
+      {
+        "url": "/shop/category/maison-bougies-28",
+        "name": "Bougies"
+      },
+      {
+        "url": "/shop/category/maison-bougies-bougies-led-178",
+        "name": "Bougies Led"
+      },
+      {
+        "url": "/shop/category/maison-bougies-lampe-a-huile-420",
+        "name": "Lampe à huile"
+      },
+      {
+        "url": "/shop/category/maison-bougies-bougies-neutres-177",
+        "name": "Bougies Neutres"
+      },
+      {
+        "url": "/shop/category/maison-bougies-bougies-parfumees-180",
+        "name": "Bougies Parfumées"
+      },
+      {
+        "url": "/shop/category/maison-decorations-232",
+        "name": "Décorations"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-31",
+        "name": "Gastronomie"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-cuilleres-chocolat-chaud-357",
+        "name": "Cuillères Chocolat Chaud"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-douceurs-biscuits-199",
+        "name": "Douceurs & Biscuits"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-cocktails-fruits-fleurs-sechees-347",
+        "name": "Cocktails Fruits & Fleurs Séchées"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-huiles-d-olive-vinaigres-cremes-balsamiques-415",
+        "name": "Huiles d'Olive, Vinaigres & Crèmes Balsamiques"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-sirops-bio-290",
+        "name": "Sirops Bio"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-thes-matcha-205",
+        "name": "Thés & Matcha"
+      },
+      {
+        "url": "/shop/category/maison-horloges-234",
+        "name": "Horloges"
+      },
+      {
+        "url": "/shop/category/maison-miroirs-237",
+        "name": "Miroirs"
+      },
+      {
+        "url": "/shop/category/maison-lanternes-236",
+        "name": "Lanternes"
+      },
+      {
+        "url": "/shop/category/maison-parfums-374",
+        "name": "Parfums"
+      },
+      {
+        "url": "/shop/category/maison-parfums-diffuseurs-436",
+        "name": "Diffuseurs"
+      },
+      {
+        "url": "/shop/category/maison-parfums-huiles-essentielles-384",
+        "name": "Huiles Essentielles"
+      },
+      {
+        "url": "/shop/category/maison-parfums-parfums-d-ambiance-385",
+        "name": "Parfums d'ambiance"
+      },
+      {
+        "url": "/shop/category/maison-parfums-parfums-voiture-432",
+        "name": "Parfums Voiture"
+      },
+      {
+        "url": "/shop/category/maison-parfums-recharges-tiges-de-rotin-438",
+        "name": "Recharges & Tiges de Rotin"
+      },
+      {
+        "url": "/shop/category/maison-photophores-239",
+        "name": "Photophores"
+      },
+      {
+        "url": "/shop/category/maison-salle-de-bain-240",
+        "name": "Salle de Bain"
+      },
+      {
+        "url": "/shop/category/maison-vases-243",
+        "name": "Vases"
+      },
+      {
+        "url": "/shop/category/maison-yoga-425",
+        "name": "Yoga"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-371",
+        "name": "Textiles de Maison"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-coussins-229",
+        "name": "Coussins"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-couvertures-230",
+        "name": "Couvertures"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-linges-de-bain-400",
+        "name": "Linges de Bain"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-linges-de-cuisine-188",
+        "name": "Linges de Cuisine"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-paillassons-376",
+        "name": "Paillassons"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-rideaux-322",
+        "name": "Rideaux"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-tapis-242",
+        "name": "Tapis"
+      },
+      {
+        "url": "/shop/category/luminaires-235",
+        "name": "Luminaires"
+      },
+      {
+        "url": "/shop/category/luminaires-abat-jour-223",
+        "name": "Abat-Jour"
+      },
+      {
+        "url": "/shop/category/luminaires-ampoules-225",
+        "name": "Ampoules"
+      },
+      {
+        "url": "/shop/category/luminaires-ampoules-ampoules-a-message-398",
+        "name": "Ampoules à Message"
+      },
+      {
+        "url": "/shop/category/luminaires-ampoules-ampoules-led-397",
+        "name": "Ampoules LED"
+      },
+      {
+        "url": "/shop/category/luminaires-appliques-392",
+        "name": "Appliques"
+      },
+      {
+        "url": "/shop/category/luminaires-cables-avec-douille-395",
+        "name": "Câbles avec Douille"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-375",
+        "name": "Lampes"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-chambre-d-enfants-393",
+        "name": "Lampes Chambre d'Enfants"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-en-papier-292",
+        "name": "Lampes en Papier"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-nomades-381",
+        "name": "Lampes Nomades"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-nomades-luminaires-a-piles-380",
+        "name": "Luminaires à Piles"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-nomades-lampes-rechargeables-379",
+        "name": "Lampes Rechargeables"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-sur-pied-394",
+        "name": "Lampes sur Pied"
+      },
+      {
+        "url": "/shop/category/luminaires-plafonniers-387",
+        "name": "Plafonniers"
+      },
+      {
+        "url": "/shop/category/luminaires-pieds-de-lampe-396",
+        "name": "Pieds de Lampe"
+      },
+      {
+        "url": "/shop/category/luminaires-socles-399",
+        "name": "Socles"
+      },
+      {
+        "url": "/shop/category/luminaires-suspensions-383",
+        "name": "Suspensions"
+      },
+      {
+        "url": "/shop/category/jardin-32",
+        "name": "Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-accessoires-de-jardin-207",
+        "name": "Accessoires de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-accessoires-feux-grillades-308",
+        "name": "Accessoires Feux & Grillades"
+      },
+      {
+        "url": "/shop/category/jardin-cache-pot-421",
+        "name": "Cache-pot"
+      },
+      {
+        "url": "/shop/category/jardin-coussins-de-piscine-bouees-210",
+        "name": "Coussins de Piscine & Bouées"
+      },
+      {
+        "url": "/shop/category/jardin-balancoires-hamacs-208",
+        "name": "Balançoires & Hamacs"
+      },
+      {
+        "url": "/shop/category/jardin-decorations-de-jardin-211",
+        "name": "Décorations de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-361",
+        "name": "Eclairage de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-bougies-d-exterieur-179",
+        "name": "Bougies d'Extérieur"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-lampes-guirlandes-344",
+        "name": "Lampes & Guirlandes"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-lampes-led-solaires-213",
+        "name": "Lampes Led-Solaires"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-lanternes-de-jardin-212",
+        "name": "Lanternes de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-jeux-372",
+        "name": "Jeux"
+      },
+      {
+        "url": "/shop/category/jardin-oiseaux-365",
+        "name": "Oiseaux"
+      },
+      {
+        "url": "/shop/category/jardin-paniers-216",
+        "name": "Paniers"
+      },
+      {
+        "url": "/shop/category/jardin-pare-vue-419",
+        "name": "Pare-vue"
+      },
+      {
+        "url": "/shop/category/jardin-peaux-de-mouton-217",
+        "name": "Peaux de Mouton"
+      },
+      {
+        "url": "/shop/category/jardin-tapis-d-exterieur-298",
+        "name": "Tapis d'Exterieur"
+      },
+      {
+        "url": "/shop/category/jardin-tuteurs-barrieres-pics-de-jardin-222",
+        "name": "Tuteurs, Barrières & Pics de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-yucca-422",
+        "name": "Yucca"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-35",
+        "name": "Mobilier d'Intérieur"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-armoires-317",
+        "name": "Armoires"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-bars-porte-bouteilles-319",
+        "name": "Bars & Porte-Bouteilles"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-bibliotheques-etageres-vitrines-247",
+        "name": "Bibliothèques, Etagères & Vitrines"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-bureaux-console-244",
+        "name": "Bureaux & Console"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-canapes-245",
+        "name": "Canapés"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-chaises-246",
+        "name": "Chaises"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-colonnes-315",
+        "name": "Colonnes"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-commodes-buffets-326",
+        "name": "Commodes & Buffets"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-fauteuils-328",
+        "name": "Fauteuils"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-lits-311",
+        "name": "Lits"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-meubles-tv-309",
+        "name": "Meubles TV"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-paravents-310",
+        "name": "Paravents"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-porte-manteaux-248",
+        "name": "Porte-Manteaux"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-poufs-329",
+        "name": "Poufs"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-250",
+        "name": "Tables"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-d-appoint-241",
+        "name": "Tables d'Appoint"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-de-chevet-316",
+        "name": "Tables de Chevet"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-de-salon-251",
+        "name": "Tables de Salon"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tabourets-bancs-249",
+        "name": "Tabourets & Bancs"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-vaisseliers-252",
+        "name": "Vaisseliers"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-38",
+        "name": "Vêtements & Accessoires"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-blouses-tuniques-270",
+        "name": "Blouses & Tuniques"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-bonnets-echarpes-274",
+        "name": "Bonnets & Écharpes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-cardigans-jaquettes-271",
+        "name": "Cardigans & Jaquettes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-chausse-pied-312",
+        "name": "Chausse-Pied"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-chaussons-272",
+        "name": "Chaussons"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-chouchous-pinces-a-cheveux-439",
+        "name": "Chouchous & Pinces à Cheveux"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-gris-gris-porte-bonheurs-440",
+        "name": "Gris-Gris & Porte-Bonheurs"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-jupes-275",
+        "name": "Jupes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-manteaux-gilets-278",
+        "name": "Manteaux & Gilets"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-pantalons-pantacourts-279",
+        "name": "Pantalons & Pantacourts"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-ponchos-capes-280",
+        "name": "Ponchos & Capes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-porte-cles-cordons-de-telephone-402",
+        "name": "Porte-Clés & Cordons de Téléphone"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-porte-monnaie-porte-cartes-porte-documents-299",
+        "name": "Porte-Monnaie, Porte-Cartes & Porte-Documents"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-pulls-281",
+        "name": "Pulls"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-robes-282",
+        "name": "Robes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-sacs-pochettes-boites-283",
+        "name": "Sacs,Pochettes & Boîtes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-tops-t-shirts-285",
+        "name": "Tops & T-Shirts"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-trousses-de-toilette-286",
+        "name": "Trousses de Toilette"
+      },
+      {
+        "url": "/shop/category/enfants-30",
+        "name": "Enfants"
+      },
+      {
+        "url": "/shop/category/enfants-coussins-et-couvertures-388",
+        "name": "Coussins et Couvertures"
+      },
+      {
+        "url": "/shop/category/enfants-decorations-pour-enfants-194",
+        "name": "Décorations pour Enfants"
+      },
+      {
+        "url": "/shop/category/enfants-peluches-196",
+        "name": "Peluches"
+      },
+      {
+        "url": "/shop/category/enfants-vetements-accessoires-192",
+        "name": "Vêtements & Accessoires"
+      },
+      {
+        "url": "/shop/category/signature-39",
+        "name": "Signature"
+      }
+    ],
+    "pager": [
+      {
+        "label": "1",
+        "url": "/shop",
+        "active": true
+      },
+      {
+        "label": "2",
+        "url": "/shop/page/2",
+        "active": false
+      },
+      {
+        "label": "3",
+        "url": "/shop/page/3",
+        "active": false
+      },
+      {
+        "label": "4",
+        "url": "/shop/page/4",
+        "active": false
+      },
+      {
+        "label": "…",
+        "url": null,
+        "active": false
+      },
+      {
+        "label": "147",
+        "url": "/shop/page/147",
+        "active": false
+      },
+      {
+        "label": "",
+        "url": "/shop/page/2",
+        "active": false
+      }
+    ],
+    "filters": []
+  },
+  "/shop?order=create_date+desc": {
+    "title": "Tous les produits",
+    "products": [
+      {
+        "url": "/shop/suspension-mobula-9673",
+        "name": "Suspension - Mobula",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12227/image_512/Suspension%20-%20Mobula%20%28Grand%29?unique=0f6c82e",
+        "price": "890,00"
+      },
+      {
+        "url": "/shop/peau-de-mouton-moody-9659",
+        "name": "Peau de Mouton - Moody",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12211/image_512/Peau%20%20de%20Mouton%20-%20Moody?unique=2b318eb",
+        "price": "119,00"
+      },
+      {
+        "url": "/shop/coussin-aspen-50x50-9658",
+        "name": "Coussin - Aspen 50x50",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12210/image_512/Coussin%20-%20Aspen%2050x50?unique=25e68a8",
+        "price": "69,00"
+      },
+      {
+        "url": "/shop/chausson-en-laine-sami-35-36-9649",
+        "name": "Chausson en Laine - Sami 35/36",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12195/image_512/Chausson%20en%20Laine%20-%20Sami%2035-36?unique=77b2bda",
+        "price": "39,90"
+      },
+      {
+        "url": "/shop/chausson-en-laine-sami-41-42-9648",
+        "name": "Chausson en Laine - Sami 41/42",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12194/image_512/Chausson%20en%20Laine%20-%20Sami%2041-42?unique=77b2bda",
+        "price": "39,90"
+      },
+      {
+        "url": "/shop/cordon-telephone-zahra-9646",
+        "name": "Cordon Téléphone - Zahra",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12191/image_512/Cordon%20T%C3%A9l%C3%A9phone%20-%20Zahra%20%28Chocolat%20Marbr%C3%A9%29?unique=8b85737",
+        "price": "79,00"
+      },
+      {
+        "url": "/shop/porte-cles-laniere-zahra-9645",
+        "name": "Porte-Clés - Lanière Zahra",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12187/image_512/Porte-Cl%C3%A9s%20-%20Lani%C3%A8re%20Zahra%20%28Chocolat%29?unique=8b85737",
+        "price": "39,00"
+      },
+      {
+        "url": "/shop/porte-cles-coeur-avec-sourire-9644",
+        "name": "Porte-Clés - Coeur avec Sourire",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12185/image_512/Porte-Cl%C3%A9s%20-%20Coeur%20avec%20Sourire?unique=8b85737",
+        "price": "35,00"
+      },
+      {
+        "url": "/shop/porte-cles-love-9643",
+        "name": "Porte-Clés - Love",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12184/image_512/Porte-Cl%C3%A9s%20-%20Love?unique=8b85737",
+        "price": "35,00"
+      },
+      {
+        "url": "/shop/porte-cles-main-force-9642",
+        "name": "Porte-Clés - Main (Force)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12183/image_512/Porte-Cl%C3%A9s%20-%20Main%20%28Force%29?unique=8b85737",
+        "price": "35,00"
+      },
+      {
+        "url": "/shop/porte-monnaie-mini-denya-taupe-9641",
+        "name": "Porte-Monnaie Mini - Denya Taupe",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12182/image_512/Porte-Monnaie%20Mini%20-%20Denya%20Taupe?unique=8b85737",
+        "price": "39,00"
+      },
+      {
+        "url": "/shop/porte-monnaie-mini-naima-creme-9640",
+        "name": "Porte-Monnaie Mini - Naima Crème",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12181/image_512/Porte-Monnaie%20Mini%20-%20Naima%20Cr%C3%A8me?unique=8b85737",
+        "price": "39,00"
+      },
+      {
+        "url": "/shop/porte-monnaie-naima-creme-9639",
+        "name": "Porte-Monnaie - Naima Crème",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12180/image_512/Porte-Monnaie%20-%20Naima%20Cr%C3%A8me?unique=8b85737",
+        "price": "79,00"
+      },
+      {
+        "url": "/shop/chouchou-mousseline-9638",
+        "name": "Chouchou - Mousseline",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12179/image_512/Chouchou%20-%20Mousseline?unique=0813868",
+        "price": "12,00"
+      },
+      {
+        "url": "/shop/chouchou-glitter-9637",
+        "name": "Chouchou - Glitter",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12178/image_512/Chouchou%20-%20Glitter?unique=0813868",
+        "price": "12,00"
+      },
+      {
+        "url": "/shop/chouchou-velvet-silk-9636",
+        "name": "Chouchou - Velvet Silk",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12174/image_512/Chouchou%20-%20Velvet%20Silk%20%28Blanc%29?unique=0813868",
+        "price": "15,00"
+      },
+      {
+        "url": "/shop/pendentif-porte-cles-trio-pompons-9634",
+        "name": "Pendentif Porte-Clés - Trio Pompons",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12171/image_512/Pendentif%20Porte-Cl%C3%A9s%20-%20Trio%20Pompons?unique=8b85737",
+        "price": "15,00"
+      },
+      {
+        "url": "/shop/porte-cles-medaillon-9633",
+        "name": "Porte-Clés - Médaillon",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12163/image_512/Porte-Cl%C3%A9s%20-%20M%C3%A9daillon%20%28Coeur%20Brillant%29?unique=8b85737",
+        "price": "25,00"
+      },
+      {
+        "url": "/shop/guirlande-720-led-cascade-sapin-de-noel-lux-9631",
+        "name": "Guirlande 720 LED Cascade sapin de Noël- Lux",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12159/image_512/Guirlande%20720%20LED%20Cascade%20sapin%20de%20No%C3%ABl-%20Lux?unique=895165d",
+        "price": "69,00"
+      },
+      {
+        "url": "/shop/kit-sac-pere-noel-chat-personnalisable-9629",
+        "name": "Kit Sac Père Noël - Chat (personnalisable)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12157/image_512/Kit%20Sac%20P%C3%A8re%20No%C3%ABl%20-%20Chat%20%28personnalisable%29?unique=3c3b7b1",
+        "price": "29,90"
+      }
+    ],
+    "categories": [
+      {
+        "url": "/shop/category/produits-de-la-semaine-431",
+        "name": "Produits de la semaine"
+      },
+      {
+        "url": "/shop/category/noel-36",
+        "name": "Noël"
+      },
+      {
+        "url": "/shop/category/noel-ampoules-de-noel-403",
+        "name": "Ampoules de Noël"
+      },
+      {
+        "url": "/shop/category/noel-art-de-la-table-389",
+        "name": "Art de la table"
+      },
+      {
+        "url": "/shop/category/noel-bougeoirs-de-noel-253",
+        "name": "Bougeoirs de Noël"
+      },
+      {
+        "url": "/shop/category/noel-bougies-404",
+        "name": "Bougies"
+      },
+      {
+        "url": "/shop/category/noel-bougies-bougies-de-noel-254",
+        "name": "Bougies de Noël"
+      },
+      {
+        "url": "/shop/category/noel-bougies-bougies-leds-de-noel-330",
+        "name": "Bougies Leds de Noël"
+      },
+      {
+        "url": "/shop/category/noel-cuilleres-en-chocolat-413",
+        "name": "Cuillères en chocolat"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-390",
+        "name": "Décoration Sapin de Noël"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-accessoires-pour-sapin-258",
+        "name": "Accessoires pour Sapin"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-boules-de-noel-255",
+        "name": "Boules de Noël"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-creches-407",
+        "name": "Crèches"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-411",
+        "name": "Décorations Intérieur"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-decorations-maison-257",
+        "name": "Décorations Maison"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-affiches-panneaux-pancarte-409",
+        "name": "Affiches, Panneaux & Pancarte"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-decorations-lumineuses-408",
+        "name": "Décorations lumineuses"
+      },
+      {
+        "url": "/shop/category/noel-decorations-jardin-405",
+        "name": "Décorations Jardin"
+      },
+      {
+        "url": "/shop/category/noel-decorations-table-de-noel-259",
+        "name": "Décorations Table de Noël"
+      },
+      {
+        "url": "/shop/category/noel-fausses-fourrures-331",
+        "name": "Fausses Fourrures"
+      },
+      {
+        "url": "/shop/category/noel-guirlandes-de-noel-260",
+        "name": "Guirlandes de Noël"
+      },
+      {
+        "url": "/shop/category/noel-guirlandes-de-noel-avec-piles-369",
+        "name": "Avec Piles"
+      },
+      {
+        "url": "/shop/category/noel-guirlandes-de-noel-avec-prises-368",
+        "name": "Avec Prises"
+      },
+      {
+        "url": "/shop/category/noel-idees-cadeaux-noel-391",
+        "name": "Idées Cadeaux Noël"
+      },
+      {
+        "url": "/shop/category/noel-idees-cadeaux-noel-idees-cadeaux-42",
+        "name": "Idées Cadeaux"
+      },
+      {
+        "url": "/shop/category/noel-idees-cadeaux-noel-cadeaux-hommes-291",
+        "name": "Cadeaux Hommes"
+      },
+      {
+        "url": "/shop/category/noel-lanternes-de-noel-261",
+        "name": "Lanternes de Noël"
+      },
+      {
+        "url": "/shop/category/noel-papeteries-calendrier-de-l-avent-emballages-de-noel-263",
+        "name": "Papeteries, Calendrier de l'Avent & Emballages de Noël"
+      },
+      {
+        "url": "/shop/category/noel-photophores-de-noel-262",
+        "name": "Photophores de Noël"
+      },
+      {
+        "url": "/shop/category/noel-sapins-artificiels-406",
+        "name": "Sapins Artificiels"
+      },
+      {
+        "url": "/shop/category/bon-cadeau-46",
+        "name": "Bon cadeau"
+      },
+      {
+        "url": "/shop/category/maison-34",
+        "name": "Maison"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-224",
+        "name": "Accessoires"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-animaux-44",
+        "name": "Animaux"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-cadres-photos-227",
+        "name": "Cadres Photos"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-corbeilles-paniers-malles-228",
+        "name": "Corbeilles, Paniers & Malles"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-corbeilles-paniers-malles-malles-valises-359",
+        "name": "Malles & Valises"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-crochets-231",
+        "name": "Crochets"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-echelles-320",
+        "name": "Échelles"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-fleurs-et-plantes-synthetiques-318",
+        "name": "Fleurs et plantes synthétiques"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-guirlandes-233",
+        "name": "Guirlandes"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-jeux-321",
+        "name": "Jeux"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-37",
+        "name": "Papeterie & Bureau"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-accessoires-de-bureau-264",
+        "name": "Accessoires de bureau"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-affiches-cartes-mantra-418",
+        "name": "Affiches & Cartes Mantra"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-cartes-etiquettes-266",
+        "name": "Cartes & Etiquettes"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-tableaux-377",
+        "name": "Tableaux"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-29",
+        "name": "Art de la table"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-accessoires-a-vin-185",
+        "name": "Accessoires à Vin"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-accessoires-de-cuisine-181",
+        "name": "Accessoires de Cuisine"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-apero-428",
+        "name": "Apéro"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-bocaux-182",
+        "name": "Bocaux"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-bols-saladiers-427",
+        "name": "Bols & Saladiers"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-carafes-355",
+        "name": "Carafes"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-planches-183",
+        "name": "Planches"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-plateaux-de-service-184",
+        "name": "Plateaux de Service"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-serviettes-186",
+        "name": "Serviettes"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-set-de-table-187",
+        "name": "Set de table"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-tasses-350",
+        "name": "Tasses"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-theieres-190",
+        "name": "Théières"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-vaisselles-191",
+        "name": "Vaisselles"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-189",
+        "name": "Verres"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-sous-verres-356",
+        "name": "Sous-Verres"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-aperos-353",
+        "name": "Verres à Apéros"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-champagne-354",
+        "name": "Verres à Champagne"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-eau-351",
+        "name": "Verres à Eau"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-vin-352",
+        "name": "Verres à Vin"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-27",
+        "name": "Bien-être"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-bouillottes-293",
+        "name": "Bouillottes"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-carillons-313",
+        "name": "Carillons"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-cremes-corps-mains-171",
+        "name": "Crèmes Corps & Mains"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-huiles-essentielles-412",
+        "name": "Huiles Essentielles"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-savons-175",
+        "name": "Savons"
+      },
+      {
+        "url": "/shop/category/maison-bougeoirs-176",
+        "name": "Bougeoirs"
+      },
+      {
+        "url": "/shop/category/maison-bougies-28",
+        "name": "Bougies"
+      },
+      {
+        "url": "/shop/category/maison-bougies-bougies-led-178",
+        "name": "Bougies Led"
+      },
+      {
+        "url": "/shop/category/maison-bougies-lampe-a-huile-420",
+        "name": "Lampe à huile"
+      },
+      {
+        "url": "/shop/category/maison-bougies-bougies-neutres-177",
+        "name": "Bougies Neutres"
+      },
+      {
+        "url": "/shop/category/maison-bougies-bougies-parfumees-180",
+        "name": "Bougies Parfumées"
+      },
+      {
+        "url": "/shop/category/maison-decorations-232",
+        "name": "Décorations"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-31",
+        "name": "Gastronomie"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-cuilleres-chocolat-chaud-357",
+        "name": "Cuillères Chocolat Chaud"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-douceurs-biscuits-199",
+        "name": "Douceurs & Biscuits"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-cocktails-fruits-fleurs-sechees-347",
+        "name": "Cocktails Fruits & Fleurs Séchées"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-huiles-d-olive-vinaigres-cremes-balsamiques-415",
+        "name": "Huiles d'Olive, Vinaigres & Crèmes Balsamiques"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-sirops-bio-290",
+        "name": "Sirops Bio"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-thes-matcha-205",
+        "name": "Thés & Matcha"
+      },
+      {
+        "url": "/shop/category/maison-horloges-234",
+        "name": "Horloges"
+      },
+      {
+        "url": "/shop/category/maison-miroirs-237",
+        "name": "Miroirs"
+      },
+      {
+        "url": "/shop/category/maison-lanternes-236",
+        "name": "Lanternes"
+      },
+      {
+        "url": "/shop/category/maison-parfums-374",
+        "name": "Parfums"
+      },
+      {
+        "url": "/shop/category/maison-parfums-diffuseurs-436",
+        "name": "Diffuseurs"
+      },
+      {
+        "url": "/shop/category/maison-parfums-huiles-essentielles-384",
+        "name": "Huiles Essentielles"
+      },
+      {
+        "url": "/shop/category/maison-parfums-parfums-d-ambiance-385",
+        "name": "Parfums d'ambiance"
+      },
+      {
+        "url": "/shop/category/maison-parfums-parfums-voiture-432",
+        "name": "Parfums Voiture"
+      },
+      {
+        "url": "/shop/category/maison-parfums-recharges-tiges-de-rotin-438",
+        "name": "Recharges & Tiges de Rotin"
+      },
+      {
+        "url": "/shop/category/maison-photophores-239",
+        "name": "Photophores"
+      },
+      {
+        "url": "/shop/category/maison-salle-de-bain-240",
+        "name": "Salle de Bain"
+      },
+      {
+        "url": "/shop/category/maison-vases-243",
+        "name": "Vases"
+      },
+      {
+        "url": "/shop/category/maison-yoga-425",
+        "name": "Yoga"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-371",
+        "name": "Textiles de Maison"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-coussins-229",
+        "name": "Coussins"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-couvertures-230",
+        "name": "Couvertures"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-linges-de-bain-400",
+        "name": "Linges de Bain"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-linges-de-cuisine-188",
+        "name": "Linges de Cuisine"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-paillassons-376",
+        "name": "Paillassons"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-rideaux-322",
+        "name": "Rideaux"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-tapis-242",
+        "name": "Tapis"
+      },
+      {
+        "url": "/shop/category/luminaires-235",
+        "name": "Luminaires"
+      },
+      {
+        "url": "/shop/category/luminaires-abat-jour-223",
+        "name": "Abat-Jour"
+      },
+      {
+        "url": "/shop/category/luminaires-ampoules-225",
+        "name": "Ampoules"
+      },
+      {
+        "url": "/shop/category/luminaires-ampoules-ampoules-a-message-398",
+        "name": "Ampoules à Message"
+      },
+      {
+        "url": "/shop/category/luminaires-ampoules-ampoules-led-397",
+        "name": "Ampoules LED"
+      },
+      {
+        "url": "/shop/category/luminaires-appliques-392",
+        "name": "Appliques"
+      },
+      {
+        "url": "/shop/category/luminaires-cables-avec-douille-395",
+        "name": "Câbles avec Douille"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-375",
+        "name": "Lampes"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-chambre-d-enfants-393",
+        "name": "Lampes Chambre d'Enfants"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-en-papier-292",
+        "name": "Lampes en Papier"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-nomades-381",
+        "name": "Lampes Nomades"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-nomades-luminaires-a-piles-380",
+        "name": "Luminaires à Piles"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-nomades-lampes-rechargeables-379",
+        "name": "Lampes Rechargeables"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-sur-pied-394",
+        "name": "Lampes sur Pied"
+      },
+      {
+        "url": "/shop/category/luminaires-plafonniers-387",
+        "name": "Plafonniers"
+      },
+      {
+        "url": "/shop/category/luminaires-pieds-de-lampe-396",
+        "name": "Pieds de Lampe"
+      },
+      {
+        "url": "/shop/category/luminaires-socles-399",
+        "name": "Socles"
+      },
+      {
+        "url": "/shop/category/luminaires-suspensions-383",
+        "name": "Suspensions"
+      },
+      {
+        "url": "/shop/category/jardin-32",
+        "name": "Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-accessoires-de-jardin-207",
+        "name": "Accessoires de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-accessoires-feux-grillades-308",
+        "name": "Accessoires Feux & Grillades"
+      },
+      {
+        "url": "/shop/category/jardin-cache-pot-421",
+        "name": "Cache-pot"
+      },
+      {
+        "url": "/shop/category/jardin-coussins-de-piscine-bouees-210",
+        "name": "Coussins de Piscine & Bouées"
+      },
+      {
+        "url": "/shop/category/jardin-balancoires-hamacs-208",
+        "name": "Balançoires & Hamacs"
+      },
+      {
+        "url": "/shop/category/jardin-decorations-de-jardin-211",
+        "name": "Décorations de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-361",
+        "name": "Eclairage de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-bougies-d-exterieur-179",
+        "name": "Bougies d'Extérieur"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-lampes-guirlandes-344",
+        "name": "Lampes & Guirlandes"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-lampes-led-solaires-213",
+        "name": "Lampes Led-Solaires"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-lanternes-de-jardin-212",
+        "name": "Lanternes de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-jeux-372",
+        "name": "Jeux"
+      },
+      {
+        "url": "/shop/category/jardin-oiseaux-365",
+        "name": "Oiseaux"
+      },
+      {
+        "url": "/shop/category/jardin-paniers-216",
+        "name": "Paniers"
+      },
+      {
+        "url": "/shop/category/jardin-pare-vue-419",
+        "name": "Pare-vue"
+      },
+      {
+        "url": "/shop/category/jardin-peaux-de-mouton-217",
+        "name": "Peaux de Mouton"
+      },
+      {
+        "url": "/shop/category/jardin-tapis-d-exterieur-298",
+        "name": "Tapis d'Exterieur"
+      },
+      {
+        "url": "/shop/category/jardin-tuteurs-barrieres-pics-de-jardin-222",
+        "name": "Tuteurs, Barrières & Pics de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-yucca-422",
+        "name": "Yucca"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-35",
+        "name": "Mobilier d'Intérieur"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-armoires-317",
+        "name": "Armoires"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-bars-porte-bouteilles-319",
+        "name": "Bars & Porte-Bouteilles"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-bibliotheques-etageres-vitrines-247",
+        "name": "Bibliothèques, Etagères & Vitrines"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-bureaux-console-244",
+        "name": "Bureaux & Console"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-canapes-245",
+        "name": "Canapés"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-chaises-246",
+        "name": "Chaises"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-colonnes-315",
+        "name": "Colonnes"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-commodes-buffets-326",
+        "name": "Commodes & Buffets"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-fauteuils-328",
+        "name": "Fauteuils"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-lits-311",
+        "name": "Lits"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-meubles-tv-309",
+        "name": "Meubles TV"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-paravents-310",
+        "name": "Paravents"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-porte-manteaux-248",
+        "name": "Porte-Manteaux"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-poufs-329",
+        "name": "Poufs"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-250",
+        "name": "Tables"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-d-appoint-241",
+        "name": "Tables d'Appoint"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-de-chevet-316",
+        "name": "Tables de Chevet"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-de-salon-251",
+        "name": "Tables de Salon"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tabourets-bancs-249",
+        "name": "Tabourets & Bancs"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-vaisseliers-252",
+        "name": "Vaisseliers"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-38",
+        "name": "Vêtements & Accessoires"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-blouses-tuniques-270",
+        "name": "Blouses & Tuniques"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-bonnets-echarpes-274",
+        "name": "Bonnets & Écharpes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-cardigans-jaquettes-271",
+        "name": "Cardigans & Jaquettes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-chausse-pied-312",
+        "name": "Chausse-Pied"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-chaussons-272",
+        "name": "Chaussons"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-chouchous-pinces-a-cheveux-439",
+        "name": "Chouchous & Pinces à Cheveux"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-gris-gris-porte-bonheurs-440",
+        "name": "Gris-Gris & Porte-Bonheurs"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-jupes-275",
+        "name": "Jupes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-manteaux-gilets-278",
+        "name": "Manteaux & Gilets"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-pantalons-pantacourts-279",
+        "name": "Pantalons & Pantacourts"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-ponchos-capes-280",
+        "name": "Ponchos & Capes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-porte-cles-cordons-de-telephone-402",
+        "name": "Porte-Clés & Cordons de Téléphone"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-porte-monnaie-porte-cartes-porte-documents-299",
+        "name": "Porte-Monnaie, Porte-Cartes & Porte-Documents"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-pulls-281",
+        "name": "Pulls"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-robes-282",
+        "name": "Robes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-sacs-pochettes-boites-283",
+        "name": "Sacs,Pochettes & Boîtes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-tops-t-shirts-285",
+        "name": "Tops & T-Shirts"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-trousses-de-toilette-286",
+        "name": "Trousses de Toilette"
+      },
+      {
+        "url": "/shop/category/enfants-30",
+        "name": "Enfants"
+      },
+      {
+        "url": "/shop/category/enfants-coussins-et-couvertures-388",
+        "name": "Coussins et Couvertures"
+      },
+      {
+        "url": "/shop/category/enfants-decorations-pour-enfants-194",
+        "name": "Décorations pour Enfants"
+      },
+      {
+        "url": "/shop/category/enfants-peluches-196",
+        "name": "Peluches"
+      },
+      {
+        "url": "/shop/category/enfants-vetements-accessoires-192",
+        "name": "Vêtements & Accessoires"
+      },
+      {
+        "url": "/shop/category/signature-39",
+        "name": "Signature"
+      }
+    ],
+    "pager": [
+      {
+        "label": "1",
+        "url": "/shop?order=create_date+desc",
+        "active": true
+      },
+      {
+        "label": "2",
+        "url": "/shop/page/2?order=create_date+desc",
+        "active": false
+      },
+      {
+        "label": "3",
+        "url": "/shop/page/3?order=create_date+desc",
+        "active": false
+      },
+      {
+        "label": "4",
+        "url": "/shop/page/4?order=create_date+desc",
+        "active": false
+      },
+      {
+        "label": "…",
+        "url": null,
+        "active": false
+      },
+      {
+        "label": "147",
+        "url": "/shop/page/147?order=create_date+desc",
+        "active": false
+      },
+      {
+        "label": "",
+        "url": "/shop/page/2?order=create_date+desc",
+        "active": false
+      }
+    ],
+    "filters": []
+  },
+  "/shop/page/2": {
+    "title": "Tous les produits",
+    "products": [
+      {
+        "url": "/shop/chouchou-glitter-9637",
+        "name": "Chouchou - Glitter",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12178/image_512/Chouchou%20-%20Glitter?unique=0813868",
+        "price": "12,00"
+      },
+      {
+        "url": "/shop/chouchou-velvet-silk-9636",
+        "name": "Chouchou - Velvet Silk",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12174/image_512/Chouchou%20-%20Velvet%20Silk%20%28Blanc%29?unique=0813868",
+        "price": "15,00"
+      },
+      {
+        "url": "/shop/pendentif-porte-cles-trio-pompons-9634",
+        "name": "Pendentif Porte-Clés - Trio Pompons",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12171/image_512/Pendentif%20Porte-Cl%C3%A9s%20-%20Trio%20Pompons?unique=8b85737",
+        "price": "15,00"
+      },
+      {
+        "url": "/shop/porte-cles-medaillon-9633",
+        "name": "Porte-Clés - Médaillon",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12163/image_512/Porte-Cl%C3%A9s%20-%20M%C3%A9daillon%20%28Coeur%20Brillant%29?unique=8b85737",
+        "price": "25,00"
+      },
+      {
+        "url": "/shop/grelot-de-noel-fer-blanc-petit-8822",
+        "name": "Grelot de Noël - Fer Blanc (petit)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11315/image_512/Grelot%20de%20No%C3%ABl%20-%20Fer%20Blanc%20%28petit%29?unique=3530578",
+        "price": "24,90"
+      },
+      {
+        "url": "/shop/grelot-de-noel-fer-blanc-grand-8823",
+        "name": "Grelot de Noël - Fer Blanc (grand)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11316/image_512/Grelot%20de%20No%C3%ABl%20-%20Fer%20Blanc%20%28grand%29?unique=aa014af",
+        "price": "99,00"
+      },
+      {
+        "url": "/shop/grelot-de-noel-fer-blanc-moyen-7017",
+        "name": "Grelot de Noël - Fer Blanc (moyen)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/9320/image_512/Grelot%20de%20No%C3%ABl%20-%20Fer%20Blanc%20%28moyen%29?unique=dcebc27",
+        "price": "39,90"
+      },
+      {
+        "url": "/shop/sapin-led-blanc-6976",
+        "name": "Sapin LED - Blanc",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/9279/image_512/Sapin%20LED%20-%20Blanc?unique=2756676",
+        "price": "799,00"
+      },
+      {
+        "url": "/shop/suspension-mobula-9673",
+        "name": "Suspension - Mobula",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12227/image_512/Suspension%20-%20Mobula%20%28Grand%29?unique=0f6c82e",
+        "price": "890,00"
+      },
+      {
+        "url": "/shop/livre-mantras-le-temps-de-ralentir-9625",
+        "name": "Livre Mantras - Le temps de ralentir",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12153/image_512/Livre%20Mantras%20-%20Le%20temps%20de%20ralentir?unique=b0b0339",
+        "price": "29,00"
+      },
+      {
+        "url": "/shop/pochons-petits-sacs-de-noel-9617",
+        "name": "Pochons - Petits Sacs de Noël",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12145/image_512/Pochons%20-%20Petits%20Sacs%20de%20No%C3%ABl?unique=4625b59",
+        "price": "9,90"
+      },
+      {
+        "url": "/shop/pince-a-cheveux-coeur-nacre-grand-9602",
+        "name": "Pince à Cheveux - Coeur Nacré (grand)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12130/image_512/Pince%20%C3%A0%20Cheveux%20-%20Coeur%20Nacr%C3%A9%20%28grand%29?unique=2d59cdf",
+        "price": "7,90"
+      },
+      {
+        "url": "/shop/pince-a-cheveux-coeur-leopard-8796",
+        "name": "Pince à Cheveux - Coeur Léopard",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11289/image_512/Pince%20%C3%A0%20Cheveux%20-%20Coeur%20L%C3%A9opard?unique=2d59cdf",
+        "price": "5,90"
+      },
+      {
+        "url": "/shop/pince-a-cheveux-coeur-nacre-petit-8795",
+        "name": "Pince à Cheveux - Coeur Nacré (petit)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11288/image_512/Pince%20%C3%A0%20Cheveux%20-%20Coeur%20Nacr%C3%A9%20%28petit%29?unique=2d59cdf",
+        "price": "5,90"
+      },
+      {
+        "url": "/shop/pince-a-cheveux-perle-maxi-8791",
+        "name": "Pince à Cheveux - Perle (maxi)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11284/image_512/Pince%20%C3%A0%20Cheveux%20-%20Perle%20%28maxi%29?unique=2d59cdf",
+        "price": "14,90"
+      },
+      {
+        "url": "/shop/pince-a-cheveux-perle-grande-8784",
+        "name": "Pince à Cheveux - Perle (grande)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11277/image_512/Pince%20%C3%A0%20Cheveux%20-%20Perle%20%28grande%29?unique=2d59cdf",
+        "price": "10,90"
+      },
+      {
+        "url": "/shop/pince-a-cheveux-perle-petite-8781",
+        "name": "Pince à Cheveux - Perle (petite)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11274/image_512/Pince%20%C3%A0%20Cheveux%20-%20Perle%20%28petite%29?unique=2d59cdf",
+        "price": "7,90"
+      },
+      {
+        "url": "/shop/assiette-petit-dejeuner-coeur-9601",
+        "name": "Assiette Petit-Déjeuner - Coeur",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12129/image_512/Assiette%20Petit-D%C3%A9jeuner%20-%20Coeur?unique=fe0ad57",
+        "price": "22,90"
+      },
+      {
+        "url": "/shop/stylo-a-bille-coeur-gris-8785",
+        "name": "Stylo à Bille - Coeur (gris)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11278/image_512/Stylo%20%C3%A0%20Bille%20-%20Coeur%20%28gris%29?unique=24c2f50",
+        "price": "8,90"
+      },
+      {
+        "url": "/shop/stylo-a-bille-coeur-creme-7765",
+        "name": "Stylo à Bille - Coeur (crème)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/10132/image_512/Stylo%20%C3%A0%20Bille%20-%20Coeur%20%28cr%C3%A8me%29?unique=7c60702",
+        "price": "9,90"
+      }
+    ],
+    "categories": [
+      {
+        "url": "/shop/category/produits-de-la-semaine-431",
+        "name": "Produits de la semaine"
+      },
+      {
+        "url": "/shop/category/noel-36",
+        "name": "Noël"
+      },
+      {
+        "url": "/shop/category/noel-ampoules-de-noel-403",
+        "name": "Ampoules de Noël"
+      },
+      {
+        "url": "/shop/category/noel-art-de-la-table-389",
+        "name": "Art de la table"
+      },
+      {
+        "url": "/shop/category/noel-bougeoirs-de-noel-253",
+        "name": "Bougeoirs de Noël"
+      },
+      {
+        "url": "/shop/category/noel-bougies-404",
+        "name": "Bougies"
+      },
+      {
+        "url": "/shop/category/noel-bougies-bougies-de-noel-254",
+        "name": "Bougies de Noël"
+      },
+      {
+        "url": "/shop/category/noel-bougies-bougies-leds-de-noel-330",
+        "name": "Bougies Leds de Noël"
+      },
+      {
+        "url": "/shop/category/noel-cuilleres-en-chocolat-413",
+        "name": "Cuillères en chocolat"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-390",
+        "name": "Décoration Sapin de Noël"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-accessoires-pour-sapin-258",
+        "name": "Accessoires pour Sapin"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-boules-de-noel-255",
+        "name": "Boules de Noël"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-creches-407",
+        "name": "Crèches"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-411",
+        "name": "Décorations Intérieur"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-decorations-maison-257",
+        "name": "Décorations Maison"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-affiches-panneaux-pancarte-409",
+        "name": "Affiches, Panneaux & Pancarte"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-decorations-lumineuses-408",
+        "name": "Décorations lumineuses"
+      },
+      {
+        "url": "/shop/category/noel-decorations-jardin-405",
+        "name": "Décorations Jardin"
+      },
+      {
+        "url": "/shop/category/noel-decorations-table-de-noel-259",
+        "name": "Décorations Table de Noël"
+      },
+      {
+        "url": "/shop/category/noel-fausses-fourrures-331",
+        "name": "Fausses Fourrures"
+      },
+      {
+        "url": "/shop/category/noel-guirlandes-de-noel-260",
+        "name": "Guirlandes de Noël"
+      },
+      {
+        "url": "/shop/category/noel-guirlandes-de-noel-avec-piles-369",
+        "name": "Avec Piles"
+      },
+      {
+        "url": "/shop/category/noel-guirlandes-de-noel-avec-prises-368",
+        "name": "Avec Prises"
+      },
+      {
+        "url": "/shop/category/noel-idees-cadeaux-noel-391",
+        "name": "Idées Cadeaux Noël"
+      },
+      {
+        "url": "/shop/category/noel-idees-cadeaux-noel-idees-cadeaux-42",
+        "name": "Idées Cadeaux"
+      },
+      {
+        "url": "/shop/category/noel-idees-cadeaux-noel-cadeaux-hommes-291",
+        "name": "Cadeaux Hommes"
+      },
+      {
+        "url": "/shop/category/noel-lanternes-de-noel-261",
+        "name": "Lanternes de Noël"
+      },
+      {
+        "url": "/shop/category/noel-papeteries-calendrier-de-l-avent-emballages-de-noel-263",
+        "name": "Papeteries, Calendrier de l'Avent & Emballages de Noël"
+      },
+      {
+        "url": "/shop/category/noel-photophores-de-noel-262",
+        "name": "Photophores de Noël"
+      },
+      {
+        "url": "/shop/category/noel-sapins-artificiels-406",
+        "name": "Sapins Artificiels"
+      },
+      {
+        "url": "/shop/category/bon-cadeau-46",
+        "name": "Bon cadeau"
+      },
+      {
+        "url": "/shop/category/maison-34",
+        "name": "Maison"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-224",
+        "name": "Accessoires"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-animaux-44",
+        "name": "Animaux"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-cadres-photos-227",
+        "name": "Cadres Photos"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-corbeilles-paniers-malles-228",
+        "name": "Corbeilles, Paniers & Malles"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-corbeilles-paniers-malles-malles-valises-359",
+        "name": "Malles & Valises"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-crochets-231",
+        "name": "Crochets"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-echelles-320",
+        "name": "Échelles"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-fleurs-et-plantes-synthetiques-318",
+        "name": "Fleurs et plantes synthétiques"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-guirlandes-233",
+        "name": "Guirlandes"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-jeux-321",
+        "name": "Jeux"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-37",
+        "name": "Papeterie & Bureau"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-accessoires-de-bureau-264",
+        "name": "Accessoires de bureau"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-affiches-cartes-mantra-418",
+        "name": "Affiches & Cartes Mantra"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-cartes-etiquettes-266",
+        "name": "Cartes & Etiquettes"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-tableaux-377",
+        "name": "Tableaux"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-29",
+        "name": "Art de la table"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-accessoires-a-vin-185",
+        "name": "Accessoires à Vin"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-accessoires-de-cuisine-181",
+        "name": "Accessoires de Cuisine"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-apero-428",
+        "name": "Apéro"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-bocaux-182",
+        "name": "Bocaux"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-bols-saladiers-427",
+        "name": "Bols & Saladiers"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-carafes-355",
+        "name": "Carafes"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-planches-183",
+        "name": "Planches"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-plateaux-de-service-184",
+        "name": "Plateaux de Service"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-serviettes-186",
+        "name": "Serviettes"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-set-de-table-187",
+        "name": "Set de table"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-tasses-350",
+        "name": "Tasses"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-theieres-190",
+        "name": "Théières"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-vaisselles-191",
+        "name": "Vaisselles"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-189",
+        "name": "Verres"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-sous-verres-356",
+        "name": "Sous-Verres"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-aperos-353",
+        "name": "Verres à Apéros"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-champagne-354",
+        "name": "Verres à Champagne"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-eau-351",
+        "name": "Verres à Eau"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-vin-352",
+        "name": "Verres à Vin"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-27",
+        "name": "Bien-être"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-bouillottes-293",
+        "name": "Bouillottes"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-carillons-313",
+        "name": "Carillons"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-cremes-corps-mains-171",
+        "name": "Crèmes Corps & Mains"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-huiles-essentielles-412",
+        "name": "Huiles Essentielles"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-savons-175",
+        "name": "Savons"
+      },
+      {
+        "url": "/shop/category/maison-bougeoirs-176",
+        "name": "Bougeoirs"
+      },
+      {
+        "url": "/shop/category/maison-bougies-28",
+        "name": "Bougies"
+      },
+      {
+        "url": "/shop/category/maison-bougies-bougies-led-178",
+        "name": "Bougies Led"
+      },
+      {
+        "url": "/shop/category/maison-bougies-lampe-a-huile-420",
+        "name": "Lampe à huile"
+      },
+      {
+        "url": "/shop/category/maison-bougies-bougies-neutres-177",
+        "name": "Bougies Neutres"
+      },
+      {
+        "url": "/shop/category/maison-bougies-bougies-parfumees-180",
+        "name": "Bougies Parfumées"
+      },
+      {
+        "url": "/shop/category/maison-decorations-232",
+        "name": "Décorations"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-31",
+        "name": "Gastronomie"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-cuilleres-chocolat-chaud-357",
+        "name": "Cuillères Chocolat Chaud"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-douceurs-biscuits-199",
+        "name": "Douceurs & Biscuits"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-cocktails-fruits-fleurs-sechees-347",
+        "name": "Cocktails Fruits & Fleurs Séchées"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-huiles-d-olive-vinaigres-cremes-balsamiques-415",
+        "name": "Huiles d'Olive, Vinaigres & Crèmes Balsamiques"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-sirops-bio-290",
+        "name": "Sirops Bio"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-thes-matcha-205",
+        "name": "Thés & Matcha"
+      },
+      {
+        "url": "/shop/category/maison-horloges-234",
+        "name": "Horloges"
+      },
+      {
+        "url": "/shop/category/maison-miroirs-237",
+        "name": "Miroirs"
+      },
+      {
+        "url": "/shop/category/maison-lanternes-236",
+        "name": "Lanternes"
+      },
+      {
+        "url": "/shop/category/maison-parfums-374",
+        "name": "Parfums"
+      },
+      {
+        "url": "/shop/category/maison-parfums-diffuseurs-436",
+        "name": "Diffuseurs"
+      },
+      {
+        "url": "/shop/category/maison-parfums-huiles-essentielles-384",
+        "name": "Huiles Essentielles"
+      },
+      {
+        "url": "/shop/category/maison-parfums-parfums-d-ambiance-385",
+        "name": "Parfums d'ambiance"
+      },
+      {
+        "url": "/shop/category/maison-parfums-parfums-voiture-432",
+        "name": "Parfums Voiture"
+      },
+      {
+        "url": "/shop/category/maison-parfums-recharges-tiges-de-rotin-438",
+        "name": "Recharges & Tiges de Rotin"
+      },
+      {
+        "url": "/shop/category/maison-photophores-239",
+        "name": "Photophores"
+      },
+      {
+        "url": "/shop/category/maison-salle-de-bain-240",
+        "name": "Salle de Bain"
+      },
+      {
+        "url": "/shop/category/maison-vases-243",
+        "name": "Vases"
+      },
+      {
+        "url": "/shop/category/maison-yoga-425",
+        "name": "Yoga"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-371",
+        "name": "Textiles de Maison"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-coussins-229",
+        "name": "Coussins"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-couvertures-230",
+        "name": "Couvertures"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-linges-de-bain-400",
+        "name": "Linges de Bain"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-linges-de-cuisine-188",
+        "name": "Linges de Cuisine"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-paillassons-376",
+        "name": "Paillassons"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-rideaux-322",
+        "name": "Rideaux"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-tapis-242",
+        "name": "Tapis"
+      },
+      {
+        "url": "/shop/category/luminaires-235",
+        "name": "Luminaires"
+      },
+      {
+        "url": "/shop/category/luminaires-abat-jour-223",
+        "name": "Abat-Jour"
+      },
+      {
+        "url": "/shop/category/luminaires-ampoules-225",
+        "name": "Ampoules"
+      },
+      {
+        "url": "/shop/category/luminaires-ampoules-ampoules-a-message-398",
+        "name": "Ampoules à Message"
+      },
+      {
+        "url": "/shop/category/luminaires-ampoules-ampoules-led-397",
+        "name": "Ampoules LED"
+      },
+      {
+        "url": "/shop/category/luminaires-appliques-392",
+        "name": "Appliques"
+      },
+      {
+        "url": "/shop/category/luminaires-cables-avec-douille-395",
+        "name": "Câbles avec Douille"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-375",
+        "name": "Lampes"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-chambre-d-enfants-393",
+        "name": "Lampes Chambre d'Enfants"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-en-papier-292",
+        "name": "Lampes en Papier"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-nomades-381",
+        "name": "Lampes Nomades"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-nomades-luminaires-a-piles-380",
+        "name": "Luminaires à Piles"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-nomades-lampes-rechargeables-379",
+        "name": "Lampes Rechargeables"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-sur-pied-394",
+        "name": "Lampes sur Pied"
+      },
+      {
+        "url": "/shop/category/luminaires-plafonniers-387",
+        "name": "Plafonniers"
+      },
+      {
+        "url": "/shop/category/luminaires-pieds-de-lampe-396",
+        "name": "Pieds de Lampe"
+      },
+      {
+        "url": "/shop/category/luminaires-socles-399",
+        "name": "Socles"
+      },
+      {
+        "url": "/shop/category/luminaires-suspensions-383",
+        "name": "Suspensions"
+      },
+      {
+        "url": "/shop/category/jardin-32",
+        "name": "Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-accessoires-de-jardin-207",
+        "name": "Accessoires de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-accessoires-feux-grillades-308",
+        "name": "Accessoires Feux & Grillades"
+      },
+      {
+        "url": "/shop/category/jardin-cache-pot-421",
+        "name": "Cache-pot"
+      },
+      {
+        "url": "/shop/category/jardin-coussins-de-piscine-bouees-210",
+        "name": "Coussins de Piscine & Bouées"
+      },
+      {
+        "url": "/shop/category/jardin-balancoires-hamacs-208",
+        "name": "Balançoires & Hamacs"
+      },
+      {
+        "url": "/shop/category/jardin-decorations-de-jardin-211",
+        "name": "Décorations de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-361",
+        "name": "Eclairage de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-bougies-d-exterieur-179",
+        "name": "Bougies d'Extérieur"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-lampes-guirlandes-344",
+        "name": "Lampes & Guirlandes"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-lampes-led-solaires-213",
+        "name": "Lampes Led-Solaires"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-lanternes-de-jardin-212",
+        "name": "Lanternes de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-jeux-372",
+        "name": "Jeux"
+      },
+      {
+        "url": "/shop/category/jardin-oiseaux-365",
+        "name": "Oiseaux"
+      },
+      {
+        "url": "/shop/category/jardin-paniers-216",
+        "name": "Paniers"
+      },
+      {
+        "url": "/shop/category/jardin-pare-vue-419",
+        "name": "Pare-vue"
+      },
+      {
+        "url": "/shop/category/jardin-peaux-de-mouton-217",
+        "name": "Peaux de Mouton"
+      },
+      {
+        "url": "/shop/category/jardin-tapis-d-exterieur-298",
+        "name": "Tapis d'Exterieur"
+      },
+      {
+        "url": "/shop/category/jardin-tuteurs-barrieres-pics-de-jardin-222",
+        "name": "Tuteurs, Barrières & Pics de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-yucca-422",
+        "name": "Yucca"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-35",
+        "name": "Mobilier d'Intérieur"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-armoires-317",
+        "name": "Armoires"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-bars-porte-bouteilles-319",
+        "name": "Bars & Porte-Bouteilles"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-bibliotheques-etageres-vitrines-247",
+        "name": "Bibliothèques, Etagères & Vitrines"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-bureaux-console-244",
+        "name": "Bureaux & Console"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-canapes-245",
+        "name": "Canapés"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-chaises-246",
+        "name": "Chaises"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-colonnes-315",
+        "name": "Colonnes"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-commodes-buffets-326",
+        "name": "Commodes & Buffets"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-fauteuils-328",
+        "name": "Fauteuils"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-lits-311",
+        "name": "Lits"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-meubles-tv-309",
+        "name": "Meubles TV"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-paravents-310",
+        "name": "Paravents"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-porte-manteaux-248",
+        "name": "Porte-Manteaux"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-poufs-329",
+        "name": "Poufs"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-250",
+        "name": "Tables"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-d-appoint-241",
+        "name": "Tables d'Appoint"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-de-chevet-316",
+        "name": "Tables de Chevet"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-de-salon-251",
+        "name": "Tables de Salon"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tabourets-bancs-249",
+        "name": "Tabourets & Bancs"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-vaisseliers-252",
+        "name": "Vaisseliers"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-38",
+        "name": "Vêtements & Accessoires"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-blouses-tuniques-270",
+        "name": "Blouses & Tuniques"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-bonnets-echarpes-274",
+        "name": "Bonnets & Écharpes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-cardigans-jaquettes-271",
+        "name": "Cardigans & Jaquettes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-chausse-pied-312",
+        "name": "Chausse-Pied"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-chaussons-272",
+        "name": "Chaussons"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-chouchous-pinces-a-cheveux-439",
+        "name": "Chouchous & Pinces à Cheveux"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-gris-gris-porte-bonheurs-440",
+        "name": "Gris-Gris & Porte-Bonheurs"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-jupes-275",
+        "name": "Jupes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-manteaux-gilets-278",
+        "name": "Manteaux & Gilets"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-pantalons-pantacourts-279",
+        "name": "Pantalons & Pantacourts"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-ponchos-capes-280",
+        "name": "Ponchos & Capes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-porte-cles-cordons-de-telephone-402",
+        "name": "Porte-Clés & Cordons de Téléphone"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-porte-monnaie-porte-cartes-porte-documents-299",
+        "name": "Porte-Monnaie, Porte-Cartes & Porte-Documents"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-pulls-281",
+        "name": "Pulls"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-robes-282",
+        "name": "Robes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-sacs-pochettes-boites-283",
+        "name": "Sacs,Pochettes & Boîtes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-tops-t-shirts-285",
+        "name": "Tops & T-Shirts"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-trousses-de-toilette-286",
+        "name": "Trousses de Toilette"
+      },
+      {
+        "url": "/shop/category/enfants-30",
+        "name": "Enfants"
+      },
+      {
+        "url": "/shop/category/enfants-coussins-et-couvertures-388",
+        "name": "Coussins et Couvertures"
+      },
+      {
+        "url": "/shop/category/enfants-decorations-pour-enfants-194",
+        "name": "Décorations pour Enfants"
+      },
+      {
+        "url": "/shop/category/enfants-peluches-196",
+        "name": "Peluches"
+      },
+      {
+        "url": "/shop/category/enfants-vetements-accessoires-192",
+        "name": "Vêtements & Accessoires"
+      },
+      {
+        "url": "/shop/category/signature-39",
+        "name": "Signature"
+      }
+    ],
+    "pager": [
+      {
+        "label": "",
+        "url": "/shop",
+        "active": false
+      },
+      {
+        "label": "1",
+        "url": "/shop",
+        "active": false
+      },
+      {
+        "label": "2",
+        "url": "/shop/page/2",
+        "active": true
+      },
+      {
+        "label": "3",
+        "url": "/shop/page/3",
+        "active": false
+      },
+      {
+        "label": "4",
+        "url": "/shop/page/4",
+        "active": false
+      },
+      {
+        "label": "…",
+        "url": null,
+        "active": false
+      },
+      {
+        "label": "147",
+        "url": "/shop/page/147",
+        "active": false
+      },
+      {
+        "label": "",
+        "url": "/shop/page/3",
+        "active": false
+      }
+    ],
+    "filters": []
+  },
+  "/shop/category/maison-34": {
+    "title": "Maison",
+    "products": [
+      {
+        "url": "/shop/maison-34/livre-mantras-le-temps-de-ralentir-9625",
+        "name": "Livre Mantras - Le temps de ralentir",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12153/image_512/Livre%20Mantras%20-%20Le%20temps%20de%20ralentir?unique=b0b0339",
+        "price": "29,00"
+      },
+      {
+        "url": "/shop/maison-34/assiette-petit-dejeuner-coeur-9601",
+        "name": "Assiette Petit-Déjeuner - Coeur",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12129/image_512/Assiette%20Petit-D%C3%A9jeuner%20-%20Coeur?unique=fe0ad57",
+        "price": "22,90"
+      },
+      {
+        "url": "/shop/maison-34/stylo-a-bille-coeur-gris-8785",
+        "name": "Stylo à Bille - Coeur (gris)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11278/image_512/Stylo%20%C3%A0%20Bille%20-%20Coeur%20%28gris%29?unique=24c2f50",
+        "price": "8,90"
+      },
+      {
+        "url": "/shop/maison-34/stylo-a-bille-coeur-creme-7765",
+        "name": "Stylo à Bille - Coeur (crème)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/10132/image_512/Stylo%20%C3%A0%20Bille%20-%20Coeur%20%28cr%C3%A8me%29?unique=7c60702",
+        "price": "9,90"
+      },
+      {
+        "url": "/shop/maison-34/verre-a-vin-rouge-coeur-7772",
+        "name": "Verre à Vin Rouge - Coeur",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/10139/image_512/Verre%20%C3%A0%20Vin%20Rouge%20-%20Coeur?unique=a8d6974",
+        "price": "19,90"
+      },
+      {
+        "url": "/shop/maison-34/verre-a-vin-blanc-coeur-7771",
+        "name": "Verre à Vin Blanc - Coeur",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/10138/image_512/Verre%20%C3%A0%20Vin%20Blanc%20-%20Coeur?unique=a8d6974",
+        "price": "17,90"
+      },
+      {
+        "url": "/shop/maison-34/sous-verre-carre-coeur-set-de-2p-9599",
+        "name": "Sous-Verre Carré - Coeur (set de 2p.)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12127/image_512/Sous-Verre%20Carr%C3%A9%20-%20Coeur%20%28set%20de%202p.%29?unique=d964e09",
+        "price": "9,90"
+      },
+      {
+        "url": "/shop/maison-34/sous-verre-rond-coeur-set-de-2p-9598",
+        "name": "Sous-Verre Rond - Coeur (set de 2p.)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12126/image_512/Sous-Verre%20Rond%20-%20Coeur%20%28set%20de%202p.%29?unique=a8d6974",
+        "price": "9,90"
+      },
+      {
+        "url": "/shop/maison-34/set-de-table-coeur-reversible-9597",
+        "name": "Set de Table - Coeur (réversible)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12125/image_512/Set%20de%20Table%20-%20Coeur%20%28r%C3%A9versible%29?unique=e00242c",
+        "price": "12,90"
+      },
+      {
+        "url": "/shop/maison-34/serviettes-en-lin-4-pieces-9596",
+        "name": "Serviettes en Lin - 4 pièces",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12124/image_512/Serviettes%20en%20Lin%20-%204%20pi%C3%A8ces?unique=d85d0ec",
+        "price": "39,90"
+      },
+      {
+        "url": "/shop/maison-34/sous-verre-coeur-8797",
+        "name": "Sous-Verre - Coeur",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11290/image_512/Sous-Verre%20-%20Coeur?unique=a8d6974",
+        "price": "9,90"
+      },
+      {
+        "url": "/shop/maison-34/porte-carte-bois-duo-coeur-15-cm-8061",
+        "name": "Porte-Carte Bois (duo) - Coeur (15 cm)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/10441/image_512/Porte-Carte%20Bois%20%28duo%29%20-%20Coeur%20%2815%20cm%29?unique=a62ab5d",
+        "price": "16,00"
+      },
+      {
+        "url": "/shop/maison-34/porte-carte-bois-blanc-duo-coeur-8060",
+        "name": "Porte-Carte Bois Blanc (duo) - Coeur",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/10440/image_512/Porte-Carte%20Bois%20Blanc%20%28duo%29%20-%20Coeur?unique=a62ab5d",
+        "price": "16,00"
+      },
+      {
+        "url": "/shop/maison-34/carnet-album-en-lin-vierge-9595",
+        "name": "Carnet Album en Lin - Vierge",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12123/image_512/Carnet%20Album%20en%20Lin%20-%20Vierge?unique=fa783e0",
+        "price": "24,90"
+      },
+      {
+        "url": "/shop/maison-34/verre-a-vin-rouge-orbite-9081",
+        "name": "Verre à Vin Rouge - Orbite",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11579/image_512/Verre%20%C3%A0%20Vin%20Rouge%20-%20Orbite?unique=90aa05c",
+        "price": "19,90"
+      },
+      {
+        "url": "/shop/maison-34/verre-a-champagne-orbite-9082",
+        "name": "Verre à Champagne - Orbite",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11580/image_512/Verre%20%C3%A0%20Champagne%20-%20Orbite?unique=d6dc9ac",
+        "price": "17,90"
+      },
+      {
+        "url": "/shop/maison-34/verre-a-vin-blanc-orbite-9080",
+        "name": "Verre à Vin Blanc - Orbite",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/11578/image_512/Verre%20%C3%A0%20Vin%20Blanc%20-%20Orbite%20?unique=ffad016",
+        "price": "19,90"
+      },
+      {
+        "url": "/shop/maison-34/plat-decoratif-lehri-8440",
+        "name": "Plat Décoratif - Lehri",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/10892/image_512/Plat%20D%C3%A9coratif%20-%20Lehri?unique=805d387",
+        "price": "79,90"
+      },
+      {
+        "url": "/shop/maison-34/vase-lehri-petit-8438",
+        "name": "Vase - Lehri (petit)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/10890/image_512/Vase%20-%20Lehri%20%28petit%29?unique=dcba1ff",
+        "price": "59,90"
+      },
+      {
+        "url": "/shop/maison-34/vase-lehri-grand-8439",
+        "name": "Vase - Lehri (grand)",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/10891/image_512/Vase%20-%20Lehri%20%28grand%29?unique=05617af",
+        "price": "79,90"
+      }
+    ],
+    "categories": [
+      {
+        "url": "/shop/category/produits-de-la-semaine-431",
+        "name": "Produits de la semaine"
+      },
+      {
+        "url": "/shop/category/noel-36",
+        "name": "Noël"
+      },
+      {
+        "url": "/shop/category/noel-ampoules-de-noel-403",
+        "name": "Ampoules de Noël"
+      },
+      {
+        "url": "/shop/category/noel-art-de-la-table-389",
+        "name": "Art de la table"
+      },
+      {
+        "url": "/shop/category/noel-bougeoirs-de-noel-253",
+        "name": "Bougeoirs de Noël"
+      },
+      {
+        "url": "/shop/category/noel-bougies-404",
+        "name": "Bougies"
+      },
+      {
+        "url": "/shop/category/noel-bougies-bougies-de-noel-254",
+        "name": "Bougies de Noël"
+      },
+      {
+        "url": "/shop/category/noel-bougies-bougies-leds-de-noel-330",
+        "name": "Bougies Leds de Noël"
+      },
+      {
+        "url": "/shop/category/noel-cuilleres-en-chocolat-413",
+        "name": "Cuillères en chocolat"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-390",
+        "name": "Décoration Sapin de Noël"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-accessoires-pour-sapin-258",
+        "name": "Accessoires pour Sapin"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-boules-de-noel-255",
+        "name": "Boules de Noël"
+      },
+      {
+        "url": "/shop/category/noel-decoration-sapin-de-noel-creches-407",
+        "name": "Crèches"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-411",
+        "name": "Décorations Intérieur"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-decorations-maison-257",
+        "name": "Décorations Maison"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-affiches-panneaux-pancarte-409",
+        "name": "Affiches, Panneaux & Pancarte"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-decorations-lumineuses-408",
+        "name": "Décorations lumineuses"
+      },
+      {
+        "url": "/shop/category/noel-decorations-jardin-405",
+        "name": "Décorations Jardin"
+      },
+      {
+        "url": "/shop/category/noel-decorations-table-de-noel-259",
+        "name": "Décorations Table de Noël"
+      },
+      {
+        "url": "/shop/category/noel-fausses-fourrures-331",
+        "name": "Fausses Fourrures"
+      },
+      {
+        "url": "/shop/category/noel-guirlandes-de-noel-260",
+        "name": "Guirlandes de Noël"
+      },
+      {
+        "url": "/shop/category/noel-guirlandes-de-noel-avec-piles-369",
+        "name": "Avec Piles"
+      },
+      {
+        "url": "/shop/category/noel-guirlandes-de-noel-avec-prises-368",
+        "name": "Avec Prises"
+      },
+      {
+        "url": "/shop/category/noel-idees-cadeaux-noel-391",
+        "name": "Idées Cadeaux Noël"
+      },
+      {
+        "url": "/shop/category/noel-idees-cadeaux-noel-idees-cadeaux-42",
+        "name": "Idées Cadeaux"
+      },
+      {
+        "url": "/shop/category/noel-idees-cadeaux-noel-cadeaux-hommes-291",
+        "name": "Cadeaux Hommes"
+      },
+      {
+        "url": "/shop/category/noel-lanternes-de-noel-261",
+        "name": "Lanternes de Noël"
+      },
+      {
+        "url": "/shop/category/noel-papeteries-calendrier-de-l-avent-emballages-de-noel-263",
+        "name": "Papeteries, Calendrier de l'Avent & Emballages de Noël"
+      },
+      {
+        "url": "/shop/category/noel-photophores-de-noel-262",
+        "name": "Photophores de Noël"
+      },
+      {
+        "url": "/shop/category/noel-sapins-artificiels-406",
+        "name": "Sapins Artificiels"
+      },
+      {
+        "url": "/shop/category/bon-cadeau-46",
+        "name": "Bon cadeau"
+      },
+      {
+        "url": "/shop/category/maison-34",
+        "name": "Supprimer les filtres"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-224",
+        "name": "Accessoires"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-animaux-44",
+        "name": "Animaux"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-cadres-photos-227",
+        "name": "Cadres Photos"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-corbeilles-paniers-malles-228",
+        "name": "Corbeilles, Paniers & Malles"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-corbeilles-paniers-malles-malles-valises-359",
+        "name": "Malles & Valises"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-crochets-231",
+        "name": "Crochets"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-echelles-320",
+        "name": "Échelles"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-fleurs-et-plantes-synthetiques-318",
+        "name": "Fleurs et plantes synthétiques"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-guirlandes-233",
+        "name": "Guirlandes"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-jeux-321",
+        "name": "Jeux"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-37",
+        "name": "Papeterie & Bureau"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-accessoires-de-bureau-264",
+        "name": "Accessoires de bureau"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-affiches-cartes-mantra-418",
+        "name": "Affiches & Cartes Mantra"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-papeterie-bureau-cartes-etiquettes-266",
+        "name": "Cartes & Etiquettes"
+      },
+      {
+        "url": "/shop/category/maison-accessoires-tableaux-377",
+        "name": "Tableaux"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-29",
+        "name": "Art de la table"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-accessoires-a-vin-185",
+        "name": "Accessoires à Vin"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-accessoires-de-cuisine-181",
+        "name": "Accessoires de Cuisine"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-apero-428",
+        "name": "Apéro"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-bocaux-182",
+        "name": "Bocaux"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-bols-saladiers-427",
+        "name": "Bols & Saladiers"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-carafes-355",
+        "name": "Carafes"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-planches-183",
+        "name": "Planches"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-plateaux-de-service-184",
+        "name": "Plateaux de Service"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-serviettes-186",
+        "name": "Serviettes"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-set-de-table-187",
+        "name": "Set de table"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-tasses-350",
+        "name": "Tasses"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-theieres-190",
+        "name": "Théières"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-vaisselles-191",
+        "name": "Vaisselles"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-189",
+        "name": "Verres"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-sous-verres-356",
+        "name": "Sous-Verres"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-aperos-353",
+        "name": "Verres à Apéros"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-champagne-354",
+        "name": "Verres à Champagne"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-eau-351",
+        "name": "Verres à Eau"
+      },
+      {
+        "url": "/shop/category/maison-art-de-la-table-verres-verres-a-vin-352",
+        "name": "Verres à Vin"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-27",
+        "name": "Bien-être"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-bouillottes-293",
+        "name": "Bouillottes"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-carillons-313",
+        "name": "Carillons"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-cremes-corps-mains-171",
+        "name": "Crèmes Corps & Mains"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-huiles-essentielles-412",
+        "name": "Huiles Essentielles"
+      },
+      {
+        "url": "/shop/category/maison-bien-etre-savons-175",
+        "name": "Savons"
+      },
+      {
+        "url": "/shop/category/maison-bougeoirs-176",
+        "name": "Bougeoirs"
+      },
+      {
+        "url": "/shop/category/maison-bougies-28",
+        "name": "Bougies"
+      },
+      {
+        "url": "/shop/category/maison-bougies-bougies-led-178",
+        "name": "Bougies Led"
+      },
+      {
+        "url": "/shop/category/maison-bougies-lampe-a-huile-420",
+        "name": "Lampe à huile"
+      },
+      {
+        "url": "/shop/category/maison-bougies-bougies-neutres-177",
+        "name": "Bougies Neutres"
+      },
+      {
+        "url": "/shop/category/maison-bougies-bougies-parfumees-180",
+        "name": "Bougies Parfumées"
+      },
+      {
+        "url": "/shop/category/maison-decorations-232",
+        "name": "Décorations"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-31",
+        "name": "Gastronomie"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-cuilleres-chocolat-chaud-357",
+        "name": "Cuillères Chocolat Chaud"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-douceurs-biscuits-199",
+        "name": "Douceurs & Biscuits"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-cocktails-fruits-fleurs-sechees-347",
+        "name": "Cocktails Fruits & Fleurs Séchées"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-huiles-d-olive-vinaigres-cremes-balsamiques-415",
+        "name": "Huiles d'Olive, Vinaigres & Crèmes Balsamiques"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-sirops-bio-290",
+        "name": "Sirops Bio"
+      },
+      {
+        "url": "/shop/category/maison-gastronomie-thes-matcha-205",
+        "name": "Thés & Matcha"
+      },
+      {
+        "url": "/shop/category/maison-horloges-234",
+        "name": "Horloges"
+      },
+      {
+        "url": "/shop/category/maison-miroirs-237",
+        "name": "Miroirs"
+      },
+      {
+        "url": "/shop/category/maison-lanternes-236",
+        "name": "Lanternes"
+      },
+      {
+        "url": "/shop/category/maison-parfums-374",
+        "name": "Parfums"
+      },
+      {
+        "url": "/shop/category/maison-parfums-diffuseurs-436",
+        "name": "Diffuseurs"
+      },
+      {
+        "url": "/shop/category/maison-parfums-huiles-essentielles-384",
+        "name": "Huiles Essentielles"
+      },
+      {
+        "url": "/shop/category/maison-parfums-parfums-d-ambiance-385",
+        "name": "Parfums d'ambiance"
+      },
+      {
+        "url": "/shop/category/maison-parfums-parfums-voiture-432",
+        "name": "Parfums Voiture"
+      },
+      {
+        "url": "/shop/category/maison-parfums-recharges-tiges-de-rotin-438",
+        "name": "Recharges & Tiges de Rotin"
+      },
+      {
+        "url": "/shop/category/maison-photophores-239",
+        "name": "Photophores"
+      },
+      {
+        "url": "/shop/category/maison-salle-de-bain-240",
+        "name": "Salle de Bain"
+      },
+      {
+        "url": "/shop/category/maison-vases-243",
+        "name": "Vases"
+      },
+      {
+        "url": "/shop/category/maison-yoga-425",
+        "name": "Yoga"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-371",
+        "name": "Textiles de Maison"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-coussins-229",
+        "name": "Coussins"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-couvertures-230",
+        "name": "Couvertures"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-linges-de-bain-400",
+        "name": "Linges de Bain"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-linges-de-cuisine-188",
+        "name": "Linges de Cuisine"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-paillassons-376",
+        "name": "Paillassons"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-rideaux-322",
+        "name": "Rideaux"
+      },
+      {
+        "url": "/shop/category/textiles-de-maison-tapis-242",
+        "name": "Tapis"
+      },
+      {
+        "url": "/shop/category/luminaires-235",
+        "name": "Luminaires"
+      },
+      {
+        "url": "/shop/category/luminaires-abat-jour-223",
+        "name": "Abat-Jour"
+      },
+      {
+        "url": "/shop/category/luminaires-ampoules-225",
+        "name": "Ampoules"
+      },
+      {
+        "url": "/shop/category/luminaires-ampoules-ampoules-a-message-398",
+        "name": "Ampoules à Message"
+      },
+      {
+        "url": "/shop/category/luminaires-ampoules-ampoules-led-397",
+        "name": "Ampoules LED"
+      },
+      {
+        "url": "/shop/category/luminaires-appliques-392",
+        "name": "Appliques"
+      },
+      {
+        "url": "/shop/category/luminaires-cables-avec-douille-395",
+        "name": "Câbles avec Douille"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-375",
+        "name": "Lampes"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-chambre-d-enfants-393",
+        "name": "Lampes Chambre d'Enfants"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-en-papier-292",
+        "name": "Lampes en Papier"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-nomades-381",
+        "name": "Lampes Nomades"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-nomades-luminaires-a-piles-380",
+        "name": "Luminaires à Piles"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-nomades-lampes-rechargeables-379",
+        "name": "Lampes Rechargeables"
+      },
+      {
+        "url": "/shop/category/luminaires-lampes-sur-pied-394",
+        "name": "Lampes sur Pied"
+      },
+      {
+        "url": "/shop/category/luminaires-plafonniers-387",
+        "name": "Plafonniers"
+      },
+      {
+        "url": "/shop/category/luminaires-pieds-de-lampe-396",
+        "name": "Pieds de Lampe"
+      },
+      {
+        "url": "/shop/category/luminaires-socles-399",
+        "name": "Socles"
+      },
+      {
+        "url": "/shop/category/luminaires-suspensions-383",
+        "name": "Suspensions"
+      },
+      {
+        "url": "/shop/category/jardin-32",
+        "name": "Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-accessoires-de-jardin-207",
+        "name": "Accessoires de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-accessoires-feux-grillades-308",
+        "name": "Accessoires Feux & Grillades"
+      },
+      {
+        "url": "/shop/category/jardin-cache-pot-421",
+        "name": "Cache-pot"
+      },
+      {
+        "url": "/shop/category/jardin-coussins-de-piscine-bouees-210",
+        "name": "Coussins de Piscine & Bouées"
+      },
+      {
+        "url": "/shop/category/jardin-balancoires-hamacs-208",
+        "name": "Balançoires & Hamacs"
+      },
+      {
+        "url": "/shop/category/jardin-decorations-de-jardin-211",
+        "name": "Décorations de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-361",
+        "name": "Eclairage de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-bougies-d-exterieur-179",
+        "name": "Bougies d'Extérieur"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-lampes-guirlandes-344",
+        "name": "Lampes & Guirlandes"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-lampes-led-solaires-213",
+        "name": "Lampes Led-Solaires"
+      },
+      {
+        "url": "/shop/category/jardin-eclairage-de-jardin-lanternes-de-jardin-212",
+        "name": "Lanternes de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-jeux-372",
+        "name": "Jeux"
+      },
+      {
+        "url": "/shop/category/jardin-oiseaux-365",
+        "name": "Oiseaux"
+      },
+      {
+        "url": "/shop/category/jardin-paniers-216",
+        "name": "Paniers"
+      },
+      {
+        "url": "/shop/category/jardin-pare-vue-419",
+        "name": "Pare-vue"
+      },
+      {
+        "url": "/shop/category/jardin-peaux-de-mouton-217",
+        "name": "Peaux de Mouton"
+      },
+      {
+        "url": "/shop/category/jardin-tapis-d-exterieur-298",
+        "name": "Tapis d'Exterieur"
+      },
+      {
+        "url": "/shop/category/jardin-tuteurs-barrieres-pics-de-jardin-222",
+        "name": "Tuteurs, Barrières & Pics de Jardin"
+      },
+      {
+        "url": "/shop/category/jardin-yucca-422",
+        "name": "Yucca"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-35",
+        "name": "Mobilier d'Intérieur"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-armoires-317",
+        "name": "Armoires"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-bars-porte-bouteilles-319",
+        "name": "Bars & Porte-Bouteilles"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-bibliotheques-etageres-vitrines-247",
+        "name": "Bibliothèques, Etagères & Vitrines"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-bureaux-console-244",
+        "name": "Bureaux & Console"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-canapes-245",
+        "name": "Canapés"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-chaises-246",
+        "name": "Chaises"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-colonnes-315",
+        "name": "Colonnes"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-commodes-buffets-326",
+        "name": "Commodes & Buffets"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-fauteuils-328",
+        "name": "Fauteuils"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-lits-311",
+        "name": "Lits"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-meubles-tv-309",
+        "name": "Meubles TV"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-paravents-310",
+        "name": "Paravents"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-porte-manteaux-248",
+        "name": "Porte-Manteaux"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-poufs-329",
+        "name": "Poufs"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-250",
+        "name": "Tables"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-d-appoint-241",
+        "name": "Tables d'Appoint"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-de-chevet-316",
+        "name": "Tables de Chevet"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tables-de-salon-251",
+        "name": "Tables de Salon"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-tabourets-bancs-249",
+        "name": "Tabourets & Bancs"
+      },
+      {
+        "url": "/shop/category/mobilier-d-interieur-vaisseliers-252",
+        "name": "Vaisseliers"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-38",
+        "name": "Vêtements & Accessoires"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-blouses-tuniques-270",
+        "name": "Blouses & Tuniques"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-bonnets-echarpes-274",
+        "name": "Bonnets & Écharpes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-cardigans-jaquettes-271",
+        "name": "Cardigans & Jaquettes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-chausse-pied-312",
+        "name": "Chausse-Pied"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-chaussons-272",
+        "name": "Chaussons"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-chouchous-pinces-a-cheveux-439",
+        "name": "Chouchous & Pinces à Cheveux"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-gris-gris-porte-bonheurs-440",
+        "name": "Gris-Gris & Porte-Bonheurs"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-jupes-275",
+        "name": "Jupes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-manteaux-gilets-278",
+        "name": "Manteaux & Gilets"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-pantalons-pantacourts-279",
+        "name": "Pantalons & Pantacourts"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-ponchos-capes-280",
+        "name": "Ponchos & Capes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-porte-cles-cordons-de-telephone-402",
+        "name": "Porte-Clés & Cordons de Téléphone"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-porte-monnaie-porte-cartes-porte-documents-299",
+        "name": "Porte-Monnaie, Porte-Cartes & Porte-Documents"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-pulls-281",
+        "name": "Pulls"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-robes-282",
+        "name": "Robes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-sacs-pochettes-boites-283",
+        "name": "Sacs,Pochettes & Boîtes"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-tops-t-shirts-285",
+        "name": "Tops & T-Shirts"
+      },
+      {
+        "url": "/shop/category/vetements-accessoires-trousses-de-toilette-286",
+        "name": "Trousses de Toilette"
+      },
+      {
+        "url": "/shop/category/enfants-30",
+        "name": "Enfants"
+      },
+      {
+        "url": "/shop/category/enfants-coussins-et-couvertures-388",
+        "name": "Coussins et Couvertures"
+      },
+      {
+        "url": "/shop/category/enfants-decorations-pour-enfants-194",
+        "name": "Décorations pour Enfants"
+      },
+      {
+        "url": "/shop/category/enfants-peluches-196",
+        "name": "Peluches"
+      },
+      {
+        "url": "/shop/category/enfants-vetements-accessoires-192",
+        "name": "Vêtements & Accessoires"
+      },
+      {
+        "url": "/shop/category/signature-39",
+        "name": "Signature"
+      }
+    ],
+    "pager": [
+      {
+        "label": "1",
+        "url": "/shop/category/maison-34",
+        "active": true
+      },
+      {
+        "label": "2",
+        "url": "/shop/category/maison-34/page/2",
+        "active": false
+      },
+      {
+        "label": "3",
+        "url": "/shop/category/maison-34/page/3",
+        "active": false
+      },
+      {
+        "label": "4",
+        "url": "/shop/category/maison-34/page/4",
+        "active": false
+      },
+      {
+        "label": "…",
+        "url": null,
+        "active": false
+      },
+      {
+        "label": "63",
+        "url": "/shop/category/maison-34/page/63",
+        "active": false
+      },
+      {
+        "label": "",
+        "url": "/shop/category/maison-34/page/2",
+        "active": false
+      }
+    ],
+    "filters": []
+  },
+  "/shop/sapin-led-blanc-6976": {
+    "name": "Sapin LED - Blanc",
+    "url": "/shop/sapin-led-blanc-6976",
+    "description": [
+      "Faites entrer la magie d’un Noël givré dans votre intérieur avec ce magnifique sapin artificiel blanc, subtilement illuminé par des LED intégrées. Sa silhouette élégante et son feuillage neigeux évoquent la douceur d’un paysage hivernal, transformant instantanément votre espace en un décor féerique.",
+      "Idéal pour une décoration moderne, chic ou scandinave, il se suffit à lui-même ou peut être habillé de quelques ornements pour un effet encore plus magique. Grâce à son éclairage intégré, il diffuse une ambiance douce et lumineuse, parfaite pour vos soirées de fêtes.",
+      "Dimensions : 132 cm x 132 cm x 210 cm",
+      "Matériaux : polyester, métal"
+    ],
+    "gallery": [
+      "https://www.cotecoeurcotejardin.ch/web/image/product.product/9279/image_1024/Sapin%20LED%20-%20Blanc?unique=2756676",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/19409/image_1024/Sapin%20LED%20-%20Blanc?unique=9673704",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/19410/image_1024/Sapin%20LED%20-%20Blanc?unique=9673704",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/19411/image_1024/Sapin%20LED%20-%20Blanc?unique=9673704",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/21019/image_1024/Sapin%20LED%20-%20Blanc?unique=99950db"
+    ],
+    "categories": [
+      {
+        "url": "/shop/category/produits-de-la-semaine-431",
+        "name": "Produits de la semaine"
+      }
+    ],
+    "variants": [],
+    "price": "799,00",
+    "availability": "InStock"
+  },
+  "/shop/suspension-mobula-9673": {
+    "name": "Suspension - Mobula",
+    "url": "/shop/suspension-mobula-9673",
+    "description": [
+      "La lampe Mobula, avec sa forme organique, s'inspire des pétales de la fleur de lotus et de la forme d'une vague, créant une pièce légère et fluide qui constitue un point d'attention attrayant, dont la présence est sculpturale mais discrète : elle attire le regard et permet à l'espace d'être sublimé en apportant du caractère sans excès et une atmosphère de tranquillité qui invite à la détente.",
+      "L'abat-jour, fait à la main en soie naturelle tendue sur une structure métallique légère, offre une finition délicate et textile qui filtre la lumière de manière homogène, ce qui donne un éclairage doux parfait pour créer des atmosphères relaxantes dans des intérieurs de style méditerranéen, contemporain ou japonais.",
+      "Au-delà d'éclairer, Mobula structure le projet : elle crée une hiérarchie, adoucit les ombres et marque un centre serein dans la pièce. Elle fonctionne seule comme un élément principal ou en répétition à différentes hauteurs, générant un rythme visuel sur les espaces de repos, étant facilement intégrable dans des environnements aux palettes claires, loin des modes éphémères.",
+      "Dimensions :",
+      "petit - 80 cm × 62 cm × 18 cm",
+      "grand - 100 cm × 74 cm × 20 cm",
+      "Matériaux :"
+    ],
+    "gallery": [
+      "https://www.cotecoeurcotejardin.ch/web/image/product.product/12227/image_1024/Suspension%20-%20Mobula%20%28Grand%29?unique=0f6c82e",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/23797/image_1024/Capture%20d%E2%80%99e%CC%81cran%202026-11-11%20a%CC%80%2013.43.16.webp?unique=d8e78d9",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/23798/image_1024/SKU_LM-MOB101.webp?unique=2e6c79c",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/23799/image_1024/SKU_LM-MOB103.webp?unique=2e6c79c",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/23800/image_1024/Capture%20d%E2%80%99e%CC%81cran%202026-11-11%20a%CC%80%2013.43.27.webp?unique=2e6c79c",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/23801/image_1024/UnikaMadrid-JN26-127.webp?unique=3c4a4f6",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/23802/image_1024/UnikaMadrid-JN26-130.webp?unique=3c4a4f6"
+    ],
+    "categories": [
+      {
+        "url": "/shop/category/luminaires-235",
+        "name": "Luminaires"
+      },
+      {
+        "url": "/shop/category/luminaires-suspensions-383",
+        "name": "Suspensions"
+      }
+    ],
+    "variants": [
+      {
+        "name": "Grand",
+        "url": "/shop/suspension-mobula-9673?attribute_values=49",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12227/image_1024?unique=0f6c82e",
+        "price": 1290,
+        "availability": "InStock"
+      },
+      {
+        "name": "Petit",
+        "url": "/shop/suspension-mobula-9673?attribute_values=51",
+        "image": "https://www.cotecoeurcotejardin.ch/web/image/product.product/12228/image_1024?unique=0f6c82e",
+        "price": 890,
+        "availability": "InStock"
+      }
+    ],
+    "price": "1 290,00",
+    "availability": null
+  },
+  "/shop/grelot-de-noel-fer-blanc-grand-8823": {
+    "name": "Grelot de Noël - Fer Blanc (grand)",
+    "url": "/shop/grelot-de-noel-fer-blanc-grand-8823",
+    "description": [
+      "Ajoutez une touche vintage et authentique à votre décoration de Noël avec cette boule en fer blanc. Ornée d’étoiles découpées et accompagnée d’une cordelette en jute naturelle, elle évoque les décorations d’antan avec un twist moderne et épuré.",
+      "Solide et intemporelle, cette boule métallique s'intègre parfaitement dans une décoration de style rustique, nordique ou minimaliste.",
+      "Dimensions : 51 cm x 51 cm x 60 cm",
+      "Matériaux : fer blanc"
+    ],
+    "gallery": [
+      "https://www.cotecoeurcotejardin.ch/web/image/product.product/11316/image_1024/Grelot%20de%20No%C3%ABl%20-%20Fer%20Blanc%20%28grand%29?unique=aa014af"
+    ],
+    "categories": [
+      {
+        "url": "/shop/category/noel-36",
+        "name": "Noël"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-411",
+        "name": "Décorations Intérieur"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-decorations-maison-257",
+        "name": "Décorations Maison"
+      }
+    ],
+    "variants": [],
+    "price": "99,00",
+    "availability": "InStock"
+  },
+  "/shop/grelot-de-noel-fer-blanc-petit-8822": {
+    "name": "Grelot de Noël - Fer Blanc (petit)",
+    "url": "/shop/grelot-de-noel-fer-blanc-petit-8822",
+    "description": [
+      "Ajoutez une touche vintage et authentique à votre décoration de Noël avec cette boule en fer blanc. Ornée d’étoiles découpées et accompagnée d’une cordelette en jute naturelle, elle évoque les décorations d’antan avec un twist moderne et épuré.",
+      "Solide et intemporelle, cette boule métallique s'intègre parfaitement dans une décoration de style rustique, nordique ou minimaliste.",
+      "Dimensions : 16 cm x 16 cm x 26 cm",
+      "Matériaux : fer blanc"
+    ],
+    "gallery": [
+      "https://www.cotecoeurcotejardin.ch/web/image/product.product/11315/image_1024/Grelot%20de%20No%C3%ABl%20-%20Fer%20Blanc%20%28petit%29?unique=3530578"
+    ],
+    "categories": [
+      {
+        "url": "/shop/category/noel-36",
+        "name": "Noël"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-411",
+        "name": "Décorations Intérieur"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-decorations-maison-257",
+        "name": "Décorations Maison"
+      }
+    ],
+    "variants": [],
+    "price": "24,90",
+    "availability": "InStock"
+  },
+  "/shop/grelot-de-noel-fer-blanc-moyen-7017": {
+    "name": "Grelot de Noël - Fer Blanc (moyen)",
+    "url": "/shop/grelot-de-noel-fer-blanc-moyen-7017",
+    "description": [
+      "Ajoutez une touche vintage et authentique à votre décoration de Noël avec cette boule en fer blanc. Ornée d’étoiles découpées et accompagnée d’une cordelette en jute naturelle, elle évoque les décorations d’antan avec un twist moderne et épuré.",
+      "Solide et intemporelle, cette boule métallique s'intègre parfaitement dans une décoration de style rustique, nordique ou minimaliste.",
+      "Dimensions : 30 cm x 30 cm x 42 cm",
+      "Matériaux : fer blanc"
+    ],
+    "gallery": [
+      "https://www.cotecoeurcotejardin.ch/web/image/product.product/9320/image_1024/Grelot%20de%20No%C3%ABl%20-%20Fer%20Blanc%20%28moyen%29?unique=dcebc27",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/20724/image_1024/Boule%20de%20No%C3%ABl%20-%20Fer%20Blanc?unique=956424c"
+    ],
+    "categories": [
+      {
+        "url": "/shop/category/noel-36",
+        "name": "Noël"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-411",
+        "name": "Décorations Intérieur"
+      },
+      {
+        "url": "/shop/category/noel-decorations-interieur-decorations-maison-257",
+        "name": "Décorations Maison"
+      }
+    ],
+    "variants": [],
+    "price": "39,90",
+    "availability": "InStock"
+  },
+  "/shop/livre-mantras-le-temps-de-ralentir-9625": {
+    "name": "Livre Mantras - Le temps de ralentir",
+    "url": "/shop/livre-mantras-le-temps-de-ralentir-9625",
+    "description": [
+      "Le Temps de ralentir est un recueil de mantras, de mots et de réflexions autour de l’hiver, une invitation à ralentir, revenir à l’essentiel et suivre un rythme plus doux.À travers des mots, des mantras et des réflexions, le livre accompagne cette saison plus silencieuse et nous rappelle que ralentir n’est pas arrêter d’avancer. C’est parfois simplement une autre manière de préparer la suite.",
+      "Un livre pour vous accompagner avec chaque jour un message, une réflexion et un mantra associé pour s’inspirer pendant 3 mois du 1er décembre à fin février. Ce livre combinera mantras et illustrations. Un livre à ouvrir au fil des jours, à offrir ou à garder près de soi comme une parenthèse.",
+      "Un livre entièrement à écrit à la main parce que l’écriture donne un autre rapport au temps et aux choses.",
+      "Matériaux : papier"
+    ],
+    "gallery": [
+      "https://www.cotecoeurcotejardin.ch/web/image/product.product/12153/image_1024/Livre%20Mantras%20-%20Le%20temps%20de%20ralentir?unique=b0b0339",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/23691/image_1024/Le%20temps%20de%20ralentir%20COUV.webp?unique=6e47874",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/23692/image_1024/Livre%20ouvert%20CDM2.webp?unique=6e47874",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/23693/image_1024/Livre%20ouvert%20CDM4.webp?unique=6e47874",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/23694/image_1024/Livre%20ouvert%20_%20CDM1.webp?unique=6e47874",
+      "https://www.cotecoeurcotejardin.ch/web/image/product.image/23695/image_1024/Livre%20ouvert%20CDM3.webp?unique=6e47874"
+    ],
+    "categories": [
+      {
+        "url": "/shop/category/produits-de-la-semaine-431",
+        "name": "Produits de la semaine"
+      }
+    ],
+    "variants": [],
+    "price": "29,00",
+    "availability": "InStock"
+  }
+}
