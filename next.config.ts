@@ -1,6 +1,8 @@
 import type { NextConfig } from "next";
 
-const templatePaths = ["/chezcaouette", "/wyler"];
+const vesuvioPath = "/vesuvio-pizza";
+const vesuvioPages = ["carte-sur-place", "carte-a-emporter", "pizza-du-mois", "nouveautes", "experiences"];
+const templatePaths = ["/chezcaouette", "/wyler", vesuvioPath];
 
 const nextConfig: NextConfig = {
   agentRules: false,
@@ -11,7 +13,10 @@ const nextConfig: NextConfig = {
     }));
   },
   async rewrites() {
-    return templatePaths.map((path) => ({
+    return [
+      ...templatePaths,
+      ...vesuvioPages.map((page) => `${vesuvioPath}/${page}`),
+    ].map((path) => ({
       source: path,
       destination: path + "/index.html",
     }));
